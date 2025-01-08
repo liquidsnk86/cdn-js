@@ -1,4 +1,4 @@
-default function getCoords() {
+function getCoords() {
   let coords = {
     lat: String | Number,
     lon: String | Number,
