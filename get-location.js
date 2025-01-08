@@ -1,7 +1,7 @@
 function getCoords() {
   let coords = {
-    lat: String | Number,
-    lon: String | Number,
+    lat: Number,
+    lon: Number,
   };
   
   if (navigator.geolocation) {
