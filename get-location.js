@@ -1,4 +1,4 @@
-default function getWeatherData() {
+default function getCoords() {
   let coords = {
     lat: String | Number,
     lon: String | Number,
