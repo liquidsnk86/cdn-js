@@ -1,19 +1,26 @@
 export default function getCoords() {
-  let coords = {
-    lat: Number,
-    lon: Number,
-  };
-  
-  if (navigator.geolocation) {
-    return new Promise((resolve, reject) => {
-      navigator.geolocation.getCurrentPosition((pos) => {
-        coords.lat = pos.coords.latitude;
-        coords.lon = pos.coords.longitude;
+  return new Promise((resolve, reject) => {
+    if (!navigator.geolocation) {
+      reject(new Error("Geolocalización no soportada en este navegador"));
+      return;
+    }
+
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const coords = {
+          lat: position.coords.latitude,
+          lon: position.coords.longitude
+        };
         resolve(coords);
-        if (!pos.coords) {
-          reject(new Error("Error al obteber la geolocalización"));
-        }
-      });
-    });
-  }
+      },
+      (error) => {
+        reject(new Error(`Error al obtener la geolocalización: ${error.message}`));
+      },
+      {
+        enableHighAccuracy: true,
+        timeout: 5000,
+        maximumAge: 0
+      }
+    );
+  });
 }
