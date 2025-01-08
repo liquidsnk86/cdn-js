@@ -1,4 +1,4 @@
-export default function getWeatherData() {
+default function getWeatherData() {
   let coords = {
     lat: String | Number,
     lon: String | Number,
