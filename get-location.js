@@ -16,4 +16,5 @@ function getCoords() {
       });
     });
   }
+  console.log({ coords });
 }
