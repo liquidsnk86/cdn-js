@@ -1,4 +1,4 @@
-function getCoords() {
+export default function getCoords() {
   let coords = {
     lat: Number,
     lon: Number,
