@@ -1,7 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.default = cleanIndent;
-export function cleanIndent(str) {
+export default function cleanIndent(str) {
     const indents = str
         .split("\n")
         .filter((line) => line.trim())
