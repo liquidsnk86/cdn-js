@@ -250,7 +250,62 @@
       "id": 50,
       "texto": "La felicidad no está en la ciencia sino en la adquisición de la ciencia.",
       "autor": "Edgar Allan Poe"
-    }
+    },
+      {
+      "id": 51,
+      "texto": "La música es el arte más cercano a las lágrimas y la memoria.",
+      "autor": "Oscar Wilde"
+    },
+    {
+      "id": 52,
+      "texto": "La pintura es poesía muda; la poesía, pintura ciega.",
+      "autor": "Leonardo da Vinci"
+    },
+    {
+      "id": 53,
+      "texto": "La poesía es el eco de la melodía del universo en el corazón de los humanos.",
+      "autor": "Rabindranath Tagore"
+    },
+    {
+      "id": 54,
+      "texto": "El amor es tan importante como la comida. Pero no alimenta.",
+      "autor": "Gabriel García Márquez"
+    },
+    {
+      "id": 55,
+      "texto": "La vida es un sueño, y los sueños, sueños son.",
+      "autor": "Pedro Calderón de la Barca"
+    },
+    {
+      "id": 56,
+      "texto": "Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro.",
+      "autor": "Isabel Allende"
+    },
+    {
+      "id": 57,
+      "texto": "Aprender a sonreír es aprender a ser libres.",
+      "autor": "William James"
+    },
+    {
+      "id": 58,
+      "texto": "Una es más auténtica, mientras más se parece a lo que soñó de sí misma.",
+      "autor": "Octavio Paz"
+    },
+    {
+      "id": 59,
+      "texto": "Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer.",
+      "autor": "Pablo Picasso"
+    },
+    {
+      "id": 60,
+      "texto": "El que quiere interesar a los demás tiene que provocarlos.",
+      "autor": "Salvador Dalí"
+    },
+    {
+      "id": 61,
+      "texto": "La pluma es la lengua del alma.",
+      "autor": "Miguel de Cervantes"
+    },
   ]
   }
 }
