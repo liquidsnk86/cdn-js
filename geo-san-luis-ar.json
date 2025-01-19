@@ -250,5 +250,113 @@
         "lat": -32.0666667,
         "lon": -65.8333333,
         "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "NGL": {
+        "id": "NGL",
+        "nombre": "Naschel",
+        "tipo": "Ciudad",
+        "departamento": "Chacabuco",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 741,
+        "lat": -32.9166667,
+        "lon": -65.3666667,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "LBT": {
+        "id": "LBT",
+        "nombre": "Luján",
+        "tipo": "Localidad",
+        "departamento": "Ayacucho",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 458,
+        "lat": -32.3666667,
+        "lon": -65.9333333,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "CDC": {
+        "id": "CDC",
+        "nombre": "Cortaderas",
+        "tipo": "Villa Turística",
+        "departamento": "Chacabuco",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 1067,
+        "lat": -32.5000000,
+        "lon": -65.0000000,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "PPC": {
+        "id": "PPC",
+        "nombre": "Papagayos",
+        "tipo": "Villa Turística",
+        "departamento": "Chacabuco",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 920,
+        "lat": -32.6833333,
+        "lon": -64.9833333,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "ARN": {
+        "id": "ARN",
+        "nombre": "Arizona",
+        "tipo": "Localidad",
+        "departamento": "General Pedernera",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 480,
+        "lat": -33.7333333,
+        "lon": -65.3166667,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "VLC": {
+        "id": "VLC",
+        "nombre": "Villa de la Cruz",
+        "tipo": "Localidad",
+        "departamento": "General Pedernera",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 505,
+        "lat": -33.6333333,
+        "lon": -65.5500000,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "FRT": {
+        "id": "FRT",
+        "nombre": "Fortuna",
+        "tipo": "Localidad",
+        "departamento": "Gobernador Dupuy",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 320,
+        "lat": -35.1333333,
+        "lon": -65.2000000,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "ANC": {
+        "id": "ANC",
+        "nombre": "Anchorena",
+        "tipo": "Localidad",
+        "departamento": "Gobernador Dupuy",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 350,
+        "lat": -35.0333333,
+        "lon": -65.5000000,
+        "zona_horaria": "America/Argentina/San_Luis"
+    },
+    "BTS": {
+        "id": "BTS",
+        "nombre": "Batavia",
+        "tipo": "Localidad",
+        "departamento": "Gobernador Dupuy",
+        "provincia": "San Luis",
+        "pais": "AR",
+        "elevacion": 310,
+        "lat": -34.7833333,
+        "lon": -65.2666667,
+        "zona_horaria": "America/Argentina/San_Luis"
     }
 }
