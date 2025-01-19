@@ -251,8 +251,8 @@
         "lon": -65.8333333,
         "zona_horaria": "America/Argentina/San_Luis"
     },
-    "NGL": {
-        "id": "NGL",
+    "NCL": {
+        "id": "NCL",
         "nombre": "Naschel",
         "tipo": "Ciudad",
         "departamento": "Chacabuco",
