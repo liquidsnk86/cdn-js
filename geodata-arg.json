@@ -1,5 +1,5 @@
-{
-  "SLC": {
+[
+  {
     "id": "SLC",
     "nombre": "San Luis",
     "tipo": "Ciudad Capital",
@@ -8,10 +8,9 @@
     "pais": "Argentina",
     "elevacion": 709,
     "lat": -33.3022222,
-    "lon": -66.3355556,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.3355556
   },
-  "VMS": {
+  {
     "id": "VMS",
     "nombre": "Villa Mercedes",
     "tipo": "Ciudad",
@@ -20,10 +19,9 @@
     "pais": "Argentina",
     "elevacion": 515,
     "lat": -33.6666667,
-    "lon": -65.4666667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.4666667
   },
-  "MRC": {
+  {
     "id": "MRC",
     "nombre": "Merlo",
     "tipo": "Ciudad",
@@ -32,10 +30,9 @@
     "pais": "Argentina",
     "elevacion": 809,
     "lat": -32.3444444,
-    "lon": -65.0316667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.0316667
   },
-  "JCH": {
+  {
     "id": "JCH",
     "nombre": "Juana Koslay",
     "tipo": "Ciudad",
@@ -44,10 +41,9 @@
     "pais": "Argentina",
     "elevacion": 711,
     "lat": -33.3166667,
-    "lon": -66.2833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.2833333
   },
-  "PCT": {
+  {
     "id": "PCT",
     "nombre": "Potrero de los Funes",
     "tipo": "Villa Turística",
@@ -56,10 +52,9 @@
     "pais": "Argentina",
     "elevacion": 860,
     "lat": -33.2166667,
-    "lon": -66.2333333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.2333333
   },
-  "LTM": {
+  {
     "id": "LTM",
     "nombre": "La Toma",
     "tipo": "Ciudad",
@@ -68,10 +63,9 @@
     "pais": "Argentina",
     "elevacion": 725,
     "lat": -33.05,
-    "lon": -65.6166667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.6166667
   },
-  "CNT": {
+  {
     "id": "CNT",
     "nombre": "Concarán",
     "tipo": "Ciudad",
@@ -80,10 +74,9 @@
     "pais": "Argentina",
     "elevacion": 664,
     "lat": -32.5633333,
-    "lon": -65.2433333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.2433333
   },
-  "NPZ": {
+  {
     "id": "NPZ",
     "nombre": "Nueva Paz",
     "tipo": "Localidad",
@@ -92,10 +85,9 @@
     "pais": "Argentina",
     "elevacion": 498,
     "lat": -33.8833333,
-    "lon": -65.2833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.2833333
   },
-  "QPM": {
+  {
     "id": "QPM",
     "nombre": "Quines",
     "tipo": "Ciudad",
@@ -104,10 +96,9 @@
     "pais": "Argentina",
     "elevacion": 506,
     "lat": -32.2333333,
-    "lon": -65.8,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.8
   },
-  "SFM": {
+  {
     "id": "SFM",
     "nombre": "Santa Rosa del Conlara",
     "tipo": "Ciudad",
@@ -116,10 +107,9 @@
     "pais": "Argentina",
     "elevacion": 625,
     "lat": -32.3433333,
-    "lon": -65.2116667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.2116667
   },
-  "TMC": {
+  {
     "id": "TMC",
     "nombre": "Tilisarao",
     "tipo": "Ciudad",
@@ -128,10 +118,9 @@
     "pais": "Argentina",
     "elevacion": 686,
     "lat": -32.7333333,
-    "lon": -65.2833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.2833333
   },
-  "UNC": {
+  {
     "id": "UNC",
     "nombre": "Unión",
     "tipo": "Localidad",
@@ -140,10 +129,9 @@
     "pais": "Argentina",
     "elevacion": 320,
     "lat": -35.1833333,
-    "lon": -65.9333333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.9333333
   },
-  "BGL": {
+  {
     "id": "BGL",
     "nombre": "Buena Esperanza",
     "tipo": "Ciudad",
@@ -152,10 +140,9 @@
     "pais": "Argentina",
     "elevacion": 380,
     "lat": -34.7666667,
-    "lon": -65.25,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.25
   },
-  "NGL": {
+  {
     "id": "NGL",
     "nombre": "Nogolí",
     "tipo": "Localidad",
@@ -164,10 +151,9 @@
     "pais": "Argentina",
     "elevacion": 857,
     "lat": -32.9166667,
-    "lon": -66.3166667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.3166667
   },
-  "CPT": {
+  {
     "id": "CPT",
     "nombre": "Carpintería",
     "tipo": "Villa Turística",
@@ -176,10 +162,9 @@
     "pais": "Argentina",
     "elevacion": 1050,
     "lat": -32.3666667,
-    "lon": -64.9833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -64.9833333
   },
-  "LFS": {
+  {
     "id": "LFL",
     "nombre": "La Florida",
     "tipo": "Villa Turística",
@@ -188,10 +173,9 @@
     "pais": "Argentina",
     "elevacion": 857,
     "lat": -33.1166667,
-    "lon": -66.0333333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.0333333
   },
-  "ETP": {
+  {
     "id": "ETP",
     "nombre": "El Trapiche",
     "tipo": "Villa Turística",
@@ -200,10 +184,9 @@
     "pais": "Argentina",
     "elevacion": 910,
     "lat": -33.1166667,
-    "lon": -66.0666667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.0666667
   },
-  "SCY": {
+  {
     "id": "SCY",
     "nombre": "San Francisco del Monte de Oro",
     "tipo": "Ciudad",
@@ -212,10 +195,9 @@
     "pais": "Argentina",
     "elevacion": 910,
     "lat": -32.6,
-    "lon": -66.1333333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.1333333
   },
-  "LJR": {
+  {
     "id": "LJR",
     "nombre": "La Jarilla",
     "tipo": "Localidad",
@@ -224,10 +206,9 @@
     "pais": "Argentina",
     "elevacion": 495,
     "lat": -33.65,
-    "lon": -65.3833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.3833333
   },
-  "LPT": {
+  {
     "id": "LPT",
     "nombre": "La Punta",
     "tipo": "Ciudad",
@@ -236,10 +217,9 @@
     "pais": "Argentina",
     "elevacion": 861,
     "lat": -33.1833333,
-    "lon": -66.3166667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -66.3166667
   },
-  "CNL": {
+  {
     "id": "CNL",
     "nombre": "Candelaria",
     "tipo": "Localidad",
@@ -248,10 +228,9 @@
     "pais": "Argentina",
     "elevacion": 845,
     "lat": -32.0666667,
-    "lon": -65.8333333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.8333333
   },
-  "NCL": {
+  {
     "id": "NCL",
     "nombre": "Naschel",
     "tipo": "Ciudad",
@@ -260,10 +239,9 @@
     "pais": "Argentina",
     "elevacion": 741,
     "lat": -32.9166667,
-    "lon": -65.3666667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.3666667
   },
-  "LBT": {
+  {
     "id": "LBT",
     "nombre": "Luján",
     "tipo": "Localidad",
@@ -272,10 +250,9 @@
     "pais": "Argentina",
     "elevacion": 458,
     "lat": -32.3666667,
-    "lon": -65.9333333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.9333333
   },
-  "CDC": {
+  {
     "id": "CDC",
     "nombre": "Cortaderas",
     "tipo": "Villa Turística",
@@ -284,10 +261,9 @@
     "pais": "Argentina",
     "elevacion": 1067,
     "lat": -32.5,
-    "lon": -65.0,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65
   },
-  "PPC": {
+  {
     "id": "PPC",
     "nombre": "Papagayos",
     "tipo": "Villa Turística",
@@ -296,10 +272,9 @@
     "pais": "Argentina",
     "elevacion": 920,
     "lat": -32.6833333,
-    "lon": -64.9833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -64.9833333
   },
-  "ARN": {
+  {
     "id": "ARN",
     "nombre": "Arizona",
     "tipo": "Localidad",
@@ -308,10 +283,9 @@
     "pais": "Argentina",
     "elevacion": 480,
     "lat": -33.7333333,
-    "lon": -65.3166667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.3166667
   },
-  "VLC": {
+  {
     "id": "VLC",
     "nombre": "Villa de la Cruz",
     "tipo": "Localidad",
@@ -320,10 +294,9 @@
     "pais": "Argentina",
     "elevacion": 505,
     "lat": -33.6333333,
-    "lon": -65.55,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.55
   },
-  "FRT": {
+  {
     "id": "FRT",
     "nombre": "Fortuna",
     "tipo": "Localidad",
@@ -332,10 +305,9 @@
     "pais": "Argentina",
     "elevacion": 320,
     "lat": -35.1333333,
-    "lon": -65.2,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.2
   },
-  "ANC": {
+  {
     "id": "ANC",
     "nombre": "Anchorena",
     "tipo": "Localidad",
@@ -344,10 +316,9 @@
     "pais": "Argentina",
     "elevacion": 350,
     "lat": -35.0333333,
-    "lon": -65.5,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.5
   },
-  "BTS": {
+  {
     "id": "BTS",
     "nombre": "Batavia",
     "tipo": "Localidad",
@@ -356,10 +327,9 @@
     "pais": "Argentina",
     "elevacion": 310,
     "lat": -34.7833333,
-    "lon": -65.2666667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.2666667
   },
-  "VEL": {
+  {
     "id": "VEL",
     "nombre": "Villa Elena",
     "tipo": "Localidad",
@@ -368,10 +338,9 @@
     "pais": "Argentina",
     "elevacion": 375,
     "lat": -34.8333333,
-    "lon": -65.3833333,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.3833333
   },
-  "VLA": {
+  {
     "id": "VLA",
     "nombre": "Villa Larca",
     "tipo": "Villa Turística",
@@ -380,10 +349,9 @@
     "pais": "Argentina",
     "elevacion": 1043,
     "lat": -32.6333333,
-    "lon": -65.0166667,
-    "zona_horaria": "America/Argentina/San_Luis"
+    "lon": -65.0166667
   },
-  "MDZ": {
+  {
     "id": "MDZ",
     "nombre": "Ciudad de Mendoza",
     "tipo": "Ciudad Capital",
@@ -392,10 +360,9 @@
     "pais": "Argentina",
     "elevacion": 746,
     "lat": -32.8908,
-    "lon": -68.8272,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8272
   },
-  "GDL": {
+  {
     "id": "GDL",
     "nombre": "Godoy Cruz",
     "tipo": "Ciudad",
@@ -404,10 +371,9 @@
     "pais": "Argentina",
     "elevacion": 827,
     "lat": -32.9254,
-    "lon": -68.8472,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8472
   },
-  "GYM": {
+  {
     "id": "GYM",
     "nombre": "Guaymallén",
     "tipo": "Ciudad",
@@ -416,10 +382,9 @@
     "pais": "Argentina",
     "elevacion": 724,
     "lat": -32.8833,
-    "lon": -68.7833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.7833
   },
-  "LSH": {
+  {
     "id": "LSH",
     "nombre": "Las Heras",
     "tipo": "Ciudad",
@@ -428,10 +393,9 @@
     "pais": "Argentina",
     "elevacion": 769,
     "lat": -32.85,
-    "lon": -68.8167,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8167
   },
-  "MAI": {
+  {
     "id": "MAI",
     "nombre": "Maipú",
     "tipo": "Ciudad",
@@ -440,10 +404,9 @@
     "pais": "Argentina",
     "elevacion": 747,
     "lat": -32.9833,
-    "lon": -68.7833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.7833
   },
-  "LUJ": {
+  {
     "id": "LUJ",
     "nombre": "Luján de Cuyo",
     "tipo": "Ciudad",
@@ -452,10 +415,9 @@
     "pais": "Argentina",
     "elevacion": 945,
     "lat": -33.0333,
-    "lon": -68.8833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8833
   },
-  "SRF": {
+  {
     "id": "SRF",
     "nombre": "San Rafael",
     "tipo": "Ciudad",
@@ -464,10 +426,9 @@
     "pais": "Argentina",
     "elevacion": 748,
     "lat": -34.6177,
-    "lon": -68.3301,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.3301
   },
-  "SCR": {
+  {
     "id": "SCR",
     "nombre": "San Carlos",
     "tipo": "Ciudad",
@@ -476,10 +437,9 @@
     "pais": "Argentina",
     "elevacion": 940,
     "lat": -33.7667,
-    "lon": -69.0333,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.0333
   },
-  "TUN": {
+  {
     "id": "TUN",
     "nombre": "Tunuyán",
     "tipo": "Ciudad",
@@ -488,10 +448,9 @@
     "pais": "Argentina",
     "elevacion": 874,
     "lat": -33.5833,
-    "lon": -69.0167,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.0167
   },
-  "TPG": {
+  {
     "id": "TPG",
     "nombre": "Tupungato",
     "tipo": "Ciudad",
@@ -500,10 +459,9 @@
     "pais": "Argentina",
     "elevacion": 1050,
     "lat": -33.3667,
-    "lon": -69.1333,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.1333
   },
-  "MAL": {
+  {
     "id": "MAL",
     "nombre": "Malargüe",
     "tipo": "Ciudad",
@@ -512,10 +470,9 @@
     "pais": "Argentina",
     "elevacion": 1396,
     "lat": -35.4667,
-    "lon": -69.5833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.5833
   },
-  "USP": {
+  {
     "id": "USP",
     "nombre": "Uspallata",
     "tipo": "Villa",
@@ -524,10 +481,9 @@
     "pais": "Argentina",
     "elevacion": 1891,
     "lat": -32.5833,
-    "lon": -69.35,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.35
   },
-  "POT": {
+  {
     "id": "POT",
     "nombre": "Potrerillos",
     "tipo": "Villa Turística",
@@ -536,10 +492,9 @@
     "pais": "Argentina",
     "elevacion": 1380,
     "lat": -32.95,
-    "lon": -69.2,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.2
   },
-  "CHM": {
+  {
     "id": "CHM",
     "nombre": "Chacras de Coria",
     "tipo": "Distrito",
@@ -548,10 +503,9 @@
     "pais": "Argentina",
     "elevacion": 921,
     "lat": -32.9833,
-    "lon": -68.8667,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8667
   },
-  "CAR": {
+  {
     "id": "CAR",
     "nombre": "Carrodilla",
     "tipo": "Distrito",
@@ -560,10 +514,9 @@
     "pais": "Argentina",
     "elevacion": 912,
     "lat": -32.9667,
-    "lon": -68.85,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.85
   },
-  "VNU": {
+  {
     "id": "VNU",
     "nombre": "Villa Nueva",
     "tipo": "Distrito",
@@ -572,10 +525,9 @@
     "pais": "Argentina",
     "elevacion": 724,
     "lat": -32.9,
-    "lon": -68.7667,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.7667
   },
-  "DOR": {
+  {
     "id": "DOR",
     "nombre": "Dorrego",
     "tipo": "Distrito",
@@ -584,10 +536,9 @@
     "pais": "Argentina",
     "elevacion": 725,
     "lat": -32.8833,
-    "lon": -68.8,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8
   },
-  "LAV": {
+  {
     "id": "LAV",
     "nombre": "Lavalle",
     "tipo": "Ciudad",
@@ -596,10 +547,9 @@
     "pais": "Argentina",
     "elevacion": 618,
     "lat": -32.7167,
-    "lon": -68.5833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.5833
   },
-  "RCO": {
+  {
     "id": "RCO",
     "nombre": "Rivadavia",
     "tipo": "Ciudad",
@@ -608,10 +558,9 @@
     "pais": "Argentina",
     "elevacion": 653,
     "lat": -33.1833,
-    "lon": -68.4667,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.4667
   },
-  "JUN": {
+  {
     "id": "JUN",
     "nombre": "Junín",
     "tipo": "Ciudad",
@@ -620,10 +569,9 @@
     "pais": "Argentina",
     "elevacion": 653,
     "lat": -33.15,
-    "lon": -68.4833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.4833
   },
-  "PAZ": {
+  {
     "id": "PAZ",
     "nombre": "La Paz",
     "tipo": "Ciudad",
@@ -632,10 +580,9 @@
     "pais": "Argentina",
     "elevacion": 498,
     "lat": -33.4667,
-    "lon": -67.55,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -67.55
   },
-  "SCM": {
+  {
     "id": "SCM",
     "nombre": "Santa Rosa",
     "tipo": "Ciudad",
@@ -644,10 +591,9 @@
     "pais": "Argentina",
     "elevacion": 598,
     "lat": -33.7167,
-    "lon": -68.1667,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.1667
   },
-  "ACO": {
+  {
     "id": "ACO",
     "nombre": "Agrelo",
     "tipo": "Distrito Vinícola",
@@ -656,10 +602,9 @@
     "pais": "Argentina",
     "elevacion": 980,
     "lat": -33.1167,
-    "lon": -68.8833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.8833
   },
-  "PER": {
+  {
     "id": "PER",
     "nombre": "Perdriel",
     "tipo": "Distrito Vinícola",
@@ -668,10 +613,9 @@
     "pais": "Argentina",
     "elevacion": 940,
     "lat": -33.0833,
-    "lon": -68.9,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.9
   },
-  "UGA": {
+  {
     "id": "UGA",
     "nombre": "Ugarteche",
     "tipo": "Distrito",
@@ -680,10 +624,9 @@
     "pais": "Argentina",
     "elevacion": 912,
     "lat": -33.25,
-    "lon": -68.9,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -68.9
   },
-  "VIS": {
+  {
     "id": "VIS",
     "nombre": "Vista Flores",
     "tipo": "Distrito",
@@ -692,10 +635,9 @@
     "pais": "Argentina",
     "elevacion": 949,
     "lat": -33.6333,
-    "lon": -69.05,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.05
   },
-  "LAC": {
+  {
     "id": "LAC",
     "nombre": "La Consulta",
     "tipo": "Distrito",
@@ -704,10 +646,9 @@
     "pais": "Argentina",
     "elevacion": 940,
     "lat": -33.7333,
-    "lon": -69.1167,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.1167
   },
-  "PMA": {
+  {
     "id": "PMA",
     "nombre": "Punta de Vacas",
     "tipo": "Localidad",
@@ -716,10 +657,9 @@
     "pais": "Argentina",
     "elevacion": 2350,
     "lat": -32.85,
-    "lon": -69.7667,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.7667
   },
-  "LVA": {
+  {
     "id": "LVA",
     "nombre": "Las Vegas",
     "tipo": "Distrito",
@@ -728,10 +668,9 @@
     "pais": "Argentina",
     "elevacion": 1420,
     "lat": -35.5333,
-    "lon": -69.6667,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -69.6667
   },
-  "BOW": {
+  {
     "id": "BOW",
     "nombre": "Bowen",
     "tipo": "Distrito",
@@ -740,10 +679,9 @@
     "pais": "Argentina",
     "elevacion": 480,
     "lat": -34.9833,
-    "lon": -67.5167,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -67.5167
   },
-  "GAL": {
+  {
     "id": "GAL",
     "nombre": "General Alvear",
     "tipo": "Ciudad",
@@ -752,10 +690,9 @@
     "pais": "Argentina",
     "elevacion": 465,
     "lat": -34.9667,
-    "lon": -67.6833,
-    "zona_horaria": "America/Argentina/Mendoza"
+    "lon": -67.6833
   },
-  "CBA": {
+  {
     "id": "CBA",
     "nombre": "Córdoba",
     "tipo": "Ciudad Capital",
@@ -764,10 +701,9 @@
     "pais": "Argentina",
     "elevacion": 390,
     "lat": -31.4167,
-    "lon": -64.1833,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.1833
   },
-  "VCA": {
+  {
     "id": "VCA",
     "nombre": "Villa Carlos Paz",
     "tipo": "Ciudad Turística",
@@ -776,10 +712,9 @@
     "pais": "Argentina",
     "elevacion": 643,
     "lat": -31.4241,
-    "lon": -64.4978,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4978
   },
-  "RIO": {
+  {
     "id": "RIO",
     "nombre": "Río Cuarto",
     "tipo": "Ciudad",
@@ -788,10 +723,9 @@
     "pais": "Argentina",
     "elevacion": 452,
     "lat": -33.1307,
-    "lon": -64.3499,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.3499
   },
-  "VMA": {
+  {
     "id": "VMA",
     "nombre": "Villa María",
     "tipo": "Ciudad",
@@ -800,10 +734,9 @@
     "pais": "Argentina",
     "elevacion": 341,
     "lat": -32.4075,
-    "lon": -63.2402,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -63.2402
   },
-  "SFR": {
+  {
     "id": "SFR",
     "nombre": "San Francisco",
     "tipo": "Ciudad",
@@ -812,10 +745,9 @@
     "pais": "Argentina",
     "elevacion": 115,
     "lat": -31.4279,
-    "lon": -62.0825,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -62.0825
   },
-  "ALC": {
+  {
     "id": "ALC",
     "nombre": "Alta Gracia",
     "tipo": "Ciudad",
@@ -824,10 +756,9 @@
     "pais": "Argentina",
     "elevacion": 550,
     "lat": -31.6529,
-    "lon": -64.4283,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4283
   },
-  "VDA": {
+  {
     "id": "VDA",
     "nombre": "Villa Dolores",
     "tipo": "Ciudad",
@@ -836,10 +767,9 @@
     "pais": "Argentina",
     "elevacion": 521,
     "lat": -31.9452,
-    "lon": -65.1891,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -65.1891
   },
-  "BVI": {
+  {
     "id": "BVI",
     "nombre": "Bell Ville",
     "tipo": "Ciudad",
@@ -848,10 +778,9 @@
     "pais": "Argentina",
     "elevacion": 127,
     "lat": -32.6262,
-    "lon": -62.6887,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -62.6887
   },
-  "MJU": {
+  {
     "id": "MJU",
     "nombre": "Marcos Juárez",
     "tipo": "Ciudad",
@@ -860,10 +789,9 @@
     "pais": "Argentina",
     "elevacion": 114,
     "lat": -32.6997,
-    "lon": -62.106,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -62.106
   },
-  "VGE": {
+  {
     "id": "VGE",
     "nombre": "Villa General Belgrano",
     "tipo": "Villa Turística",
@@ -872,10 +800,9 @@
     "pais": "Argentina",
     "elevacion": 720,
     "lat": -31.9778,
-    "lon": -64.5613,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.5613
   },
-  "LCU": {
+  {
     "id": "LCU",
     "nombre": "La Cumbre",
     "tipo": "Villa Turística",
@@ -884,10 +811,9 @@
     "pais": "Argentina",
     "elevacion": 1141,
     "lat": -30.9667,
-    "lon": -64.5,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.5
   },
-  "CAP": {
+  {
     "id": "CAP",
     "nombre": "Capilla del Monte",
     "tipo": "Villa Turística",
@@ -896,10 +822,9 @@
     "pais": "Argentina",
     "elevacion": 979,
     "lat": -30.8603,
-    "lon": -64.5225,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.5225
   },
-  "COS": {
+  {
     "id": "COS",
     "nombre": "Cosquín",
     "tipo": "Ciudad",
@@ -908,10 +833,9 @@
     "pais": "Argentina",
     "elevacion": 720,
     "lat": -31.2447,
-    "lon": -64.4647,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4647
   },
-  "JMA": {
+  {
     "id": "JMA",
     "nombre": "Jesús María",
     "tipo": "Ciudad",
@@ -920,10 +844,9 @@
     "pais": "Argentina",
     "elevacion": 535,
     "lat": -30.9833,
-    "lon": -64.1,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.1
   },
-  "LAF": {
+  {
     "id": "LAF",
     "nombre": "La Falda",
     "tipo": "Ciudad Turística",
@@ -932,10 +855,9 @@
     "pais": "Argentina",
     "elevacion": 1000,
     "lat": -31.0853,
-    "lon": -64.4794,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4794
   },
-  "MIR": {
+  {
     "id": "MIR",
     "nombre": "Miramar",
     "tipo": "Villa Turística",
@@ -944,10 +866,9 @@
     "pais": "Argentina",
     "elevacion": 72,
     "lat": -30.9167,
-    "lon": -62.6667,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -62.6667
   },
-  "SRC": {
+  {
     "id": "SRC",
     "nombre": "Santa Rosa de Calamuchita",
     "tipo": "Ciudad",
@@ -956,10 +877,9 @@
     "pais": "Argentina",
     "elevacion": 566,
     "lat": -32.0667,
-    "lon": -64.5333,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.5333
   },
-  "LCC": {
+  {
     "id": "LAC",
     "nombre": "La Carlota",
     "tipo": "Ciudad",
@@ -968,10 +888,9 @@
     "pais": "Argentina",
     "elevacion": 237,
     "lat": -33.4167,
-    "lon": -63.3,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -63.3
   },
-  "VRU": {
+  {
     "id": "VRU",
     "nombre": "Villa Rumipal",
     "tipo": "Villa Turística",
@@ -980,10 +899,9 @@
     "pais": "Argentina",
     "elevacion": 555,
     "lat": -32.1833,
-    "lon": -64.4833,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4833
   },
-  "RCE": {
+  {
     "id": "RCE",
     "nombre": "Río Ceballos",
     "tipo": "Ciudad",
@@ -992,10 +910,9 @@
     "pais": "Argentina",
     "elevacion": 739,
     "lat": -31.1667,
-    "lon": -64.3333,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.3333
   },
-  "UNQ": {
+  {
     "id": "UNQ",
     "nombre": "Unquillo",
     "tipo": "Ciudad",
@@ -1004,10 +921,9 @@
     "pais": "Argentina",
     "elevacion": 615,
     "lat": -31.2333,
-    "lon": -64.3167,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.3167
   },
-  "VIL": {
+  {
     "id": "VIL",
     "nombre": "Villa Icho Cruz",
     "tipo": "Villa Turística",
@@ -1016,10 +932,9 @@
     "pais": "Argentina",
     "elevacion": 725,
     "lat": -31.4667,
-    "lon": -64.5833,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.5833
   },
-  "CRI": {
+  {
     "id": "CRI",
     "nombre": "Cruz del Eje",
     "tipo": "Ciudad",
@@ -1028,10 +943,9 @@
     "pais": "Argentina",
     "elevacion": 457,
     "lat": -30.7222,
-    "lon": -64.8028,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.8028
   },
-  "LAB": {
+  {
     "id": "LAB",
     "nombre": "Laboulaye",
     "tipo": "Ciudad",
@@ -1040,10 +954,9 @@
     "pais": "Argentina",
     "elevacion": 137,
     "lat": -34.1333,
-    "lon": -63.3833,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -63.3833
   },
-  "MCC": {
+  {
     "id": "MCC",
     "nombre": "Morteros",
     "tipo": "Ciudad",
@@ -1052,10 +965,9 @@
     "pais": "Argentina",
     "elevacion": 93,
     "lat": -30.7105187,
-    "lon": -62.0285192,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -62.0285192
   },
-  "ARR": {
+  {
     "id": "ARR",
     "nombre": "Arroyito",
     "tipo": "Ciudad",
@@ -1064,10 +976,9 @@
     "pais": "Argentina",
     "elevacion": 138,
     "lat": -31.4167,
-    "lon": -63.05,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -63.05
   },
-  "VCS": {
+  {
     "id": "VCS",
     "nombre": "Villa Cura Brochero",
     "tipo": "Villa Turística",
@@ -1076,10 +987,9 @@
     "pais": "Argentina",
     "elevacion": 894,
     "lat": -31.7167,
-    "lon": -65.0167,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -65.0167
   },
-  "MIS": {
+  {
     "id": "MIS",
     "nombre": "Mina Clavero",
     "tipo": "Villa Turística",
@@ -1088,10 +998,9 @@
     "pais": "Argentina",
     "elevacion": 891,
     "lat": -31.7222,
-    "lon": -65.0056,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -65.0056
   },
-  "VCN": {
+  {
     "id": "VCN",
     "nombre": "Villa del Totoral",
     "tipo": "Ciudad",
@@ -1100,10 +1009,9 @@
     "pais": "Argentina",
     "elevacion": 576,
     "lat": -30.7167,
-    "lon": -63.7167,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -63.7167
   },
-  "HUE": {
+  {
     "id": "HUE",
     "nombre": "Huerta Grande",
     "tipo": "Villa Turística",
@@ -1112,10 +1020,9 @@
     "pais": "Argentina",
     "elevacion": 971,
     "lat": -31.0833,
-    "lon": -64.4833,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4833
   },
-  "VAL": {
+  {
     "id": "VAL",
     "nombre": "Valle Hermoso",
     "tipo": "Villa Turística",
@@ -1124,10 +1031,9 @@
     "pais": "Argentina",
     "elevacion": 975,
     "lat": -31.1167,
-    "lon": -64.4833,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.4833
   },
-  "TAN": {
+  {
     "id": "TAN",
     "nombre": "Tanti",
     "tipo": "Villa Turística",
@@ -1136,10 +1042,9 @@
     "pais": "Argentina",
     "elevacion": 830,
     "lat": -31.3333,
-    "lon": -64.6,
-    "zona_horaria": "America/Argentina/Cordoba"
+    "lon": -64.6
   },
-  "CABA": {
+  {
     "id": "CABA",
     "nombre": "Ciudad Autónoma de Buenos Aires",
     "tipo": "Ciudad Capital Federal",
@@ -1148,10 +1053,9 @@
     "pais": "Argentina",
     "elevacion": 25,
     "lat": -34.6037,
-    "lon": -58.3816,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.3816
   },
-  "LPL": {
+  {
     "id": "LPL",
     "nombre": "La Plata",
     "tipo": "Ciudad Capital Provincial",
@@ -1160,10 +1064,9 @@
     "pais": "Argentina",
     "elevacion": 26,
     "lat": -34.9214,
-    "lon": -57.9544,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.9544
   },
-  "MDQ": {
+  {
     "id": "MDQ",
     "nombre": "Mar del Plata",
     "tipo": "Ciudad Turística",
@@ -1172,10 +1075,9 @@
     "pais": "Argentina",
     "elevacion": 38,
     "lat": -38.0023,
-    "lon": -57.5575,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.5575
   },
-  "BHI": {
+  {
     "id": "BHI",
     "nombre": "Bahía Blanca",
     "tipo": "Ciudad",
@@ -1184,10 +1086,9 @@
     "pais": "Argentina",
     "elevacion": 20,
     "lat": -38.7196,
-    "lon": -62.2724,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -62.2724
   },
-  "TDL": {
+  {
     "id": "TDL",
     "nombre": "Tandil",
     "tipo": "Ciudad Turística",
@@ -1196,10 +1097,9 @@
     "pais": "Argentina",
     "elevacion": 188,
     "lat": -37.3217,
-    "lon": -59.1333,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.1333
   },
-  "MER": {
+  {
     "id": "MER",
     "nombre": "Merlo",
     "tipo": "Ciudad",
@@ -1208,10 +1108,9 @@
     "pais": "Argentina",
     "elevacion": 21,
     "lat": -34.6667,
-    "lon": -58.7333,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.7333
   },
-  "QUI": {
+  {
     "id": "QUI",
     "nombre": "Quilmes",
     "tipo": "Ciudad",
@@ -1220,10 +1119,9 @@
     "pais": "Argentina",
     "elevacion": 17,
     "lat": -34.7167,
-    "lon": -58.2667,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.2667
   },
-  "LAN": {
+  {
     "id": "LAN",
     "nombre": "Lanús",
     "tipo": "Ciudad",
@@ -1232,10 +1130,9 @@
     "pais": "Argentina",
     "elevacion": 20,
     "lat": -34.7,
-    "lon": -58.4,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.4
   },
-  "AVE": {
+  {
     "id": "AVE",
     "nombre": "Avellaneda",
     "tipo": "Ciudad",
@@ -1244,10 +1141,9 @@
     "pais": "Argentina",
     "elevacion": 18,
     "lat": -34.6667,
-    "lon": -58.3667,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.3667
   },
-  "SIS": {
+  {
     "id": "SIS",
     "nombre": "San Isidro",
     "tipo": "Ciudad",
@@ -1256,10 +1152,9 @@
     "pais": "Argentina",
     "elevacion": 15,
     "lat": -34.47,
-    "lon": -58.5283,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.5283
   },
-  "VLB": {
+  {
     "id": "VLB",
     "nombre": "Vicente López",
     "tipo": "Ciudad",
@@ -1268,10 +1163,9 @@
     "pais": "Argentina",
     "elevacion": 14,
     "lat": -34.5267,
-    "lon": -58.4733,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.4733
   },
-  "MOR": {
+  {
     "id": "MOR",
     "nombre": "Morón",
     "tipo": "Ciudad",
@@ -1280,10 +1174,9 @@
     "pais": "Argentina",
     "elevacion": 24,
     "lat": -34.65,
-    "lon": -58.6167,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.6167
   },
-  "SMT": {
+  {
     "id": "SMT",
     "nombre": "San Martín",
     "tipo": "Ciudad",
@@ -1292,10 +1185,9 @@
     "pais": "Argentina",
     "elevacion": 27,
     "lat": -34.5833,
-    "lon": -58.5333,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.5333
   },
-  "TIG": {
+  {
     "id": "TIG",
     "nombre": "Tigre",
     "tipo": "Ciudad",
@@ -1304,10 +1196,9 @@
     "pais": "Argentina",
     "elevacion": 4,
     "lat": -34.4267,
-    "lon": -58.5792,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.5792
   },
-  "PIL": {
+  {
     "id": "PIL",
     "nombre": "Pilar",
     "tipo": "Ciudad",
@@ -1316,10 +1207,9 @@
     "pais": "Argentina",
     "elevacion": 29,
     "lat": -34.4586,
-    "lon": -58.9142,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.9142
   },
-  "MDP": {
+  {
     "id": "MDP",
     "nombre": "Miramar",
     "tipo": "Ciudad Turística",
@@ -1328,10 +1218,9 @@
     "pais": "Argentina",
     "elevacion": 17,
     "lat": -38.2667,
-    "lon": -57.85,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.85
   },
-  "NEC": {
+  {
     "id": "NEC",
     "nombre": "Necochea",
     "tipo": "Ciudad Turística",
@@ -1340,10 +1229,9 @@
     "pais": "Argentina",
     "elevacion": 11,
     "lat": -38.5473,
-    "lon": -58.7368,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.7368
   },
-  "PERB": {
+  {
     "id": "PERB",
     "nombre": "Pergamino",
     "tipo": "Ciudad",
@@ -1352,10 +1240,9 @@
     "pais": "Argentina",
     "elevacion": 65,
     "lat": -33.89,
-    "lon": -60.57,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.57
   },
-  "JUB": {
+  {
     "id": "JUB",
     "nombre": "Junín",
     "tipo": "Ciudad",
@@ -1364,10 +1251,9 @@
     "pais": "Argentina",
     "elevacion": 81,
     "lat": -34.585,
-    "lon": -60.9589,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.9589
   },
-  "ZAR": {
+  {
     "id": "ZAR",
     "nombre": "Zárate",
     "tipo": "Ciudad",
@@ -1376,10 +1262,9 @@
     "pais": "Argentina",
     "elevacion": 27,
     "lat": -34.0981,
-    "lon": -59.0286,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.0286
   },
-  "LUB": {
+  {
     "id": "LUJ",
     "nombre": "Luján",
     "tipo": "Ciudad",
@@ -1388,10 +1273,9 @@
     "pais": "Argentina",
     "elevacion": 28,
     "lat": -34.5703,
-    "lon": -59.105,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.105
   },
-  "AZU": {
+  {
     "id": "AZU",
     "nombre": "Azul",
     "tipo": "Ciudad",
@@ -1400,10 +1284,9 @@
     "pais": "Argentina",
     "elevacion": 132,
     "lat": -36.7767,
-    "lon": -59.8589,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.8589
   },
-  "OLA": {
+  {
     "id": "OLA",
     "nombre": "Olavarría",
     "tipo": "Ciudad",
@@ -1412,10 +1295,9 @@
     "pais": "Argentina",
     "elevacion": 166,
     "lat": -36.8927,
-    "lon": -60.3225,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.3225
   },
-  "GES": {
+  {
     "id": "GES",
     "nombre": "Gesell",
     "tipo": "Ciudad Turística",
@@ -1424,10 +1306,9 @@
     "pais": "Argentina",
     "elevacion": 11,
     "lat": -37.2633,
-    "lon": -56.9737,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -56.9737
   },
-  "PIN": {
+  {
     "id": "PIN",
     "nombre": "Pinamar",
     "tipo": "Ciudad Turística",
@@ -1436,10 +1317,9 @@
     "pais": "Argentina",
     "elevacion": 13,
     "lat": -37.1167,
-    "lon": -56.85,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -56.85
   },
-  "CAB": {
+  {
     "id": "CAB",
     "nombre": "Cariló",
     "tipo": "Villa Turística",
@@ -1448,10 +1328,9 @@
     "pais": "Argentina",
     "elevacion": 15,
     "lat": -37.1667,
-    "lon": -56.89,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -56.89
   },
-  "SBE": {
+  {
     "id": "SBE",
     "nombre": "San Bernardo",
     "tipo": "Ciudad Turística",
@@ -1460,10 +1339,9 @@
     "pais": "Argentina",
     "elevacion": 8,
     "lat": -36.6867,
-    "lon": -56.6767,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -56.6767
   },
-  "SCL": {
+  {
     "id": "SCL",
     "nombre": "Santa Clara del Mar",
     "tipo": "Ciudad Turística",
@@ -1472,10 +1350,9 @@
     "pais": "Argentina",
     "elevacion": 12,
     "lat": -37.8367,
-    "lon": -57.5,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.5
   },
-  "CHI": {
+  {
     "id": "CHI",
     "nombre": "Chivilcoy",
     "tipo": "Ciudad",
@@ -1484,10 +1361,9 @@
     "pais": "Argentina",
     "elevacion": 52,
     "lat": -34.8957,
-    "lon": -60.0167,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.0167
   },
-  "BRA": {
+  {
     "id": "BRA",
     "nombre": "Bragado",
     "tipo": "Ciudad",
@@ -1496,10 +1372,9 @@
     "pais": "Argentina",
     "elevacion": 59,
     "lat": -35.1167,
-    "lon": -60.4833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.4833
   },
-  "TRE": {
+  {
     "id": "TRE",
     "nombre": "Tres Arroyos",
     "tipo": "Ciudad",
@@ -1508,10 +1383,9 @@
     "pais": "Argentina",
     "elevacion": 108,
     "lat": -38.3739,
-    "lon": -60.2789,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.2789
   },
-  "SAL": {
+  {
     "id": "SAL",
     "nombre": "Saladillo",
     "tipo": "Ciudad",
@@ -1520,10 +1394,9 @@
     "pais": "Argentina",
     "elevacion": 43,
     "lat": -35.6367,
-    "lon": -59.7786,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.7786
   },
-  "CPZ": {
+  {
     "id": "CPZ",
     "nombre": "Campana",
     "tipo": "Ciudad",
@@ -1532,10 +1405,9 @@
     "pais": "Argentina",
     "elevacion": 20,
     "lat": -34.1633,
-    "lon": -58.9592,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.9592
   },
-  "ESC": {
+  {
     "id": "ESC",
     "nombre": "Escobar",
     "tipo": "Ciudad",
@@ -1544,10 +1416,9 @@
     "pais": "Argentina",
     "elevacion": 16,
     "lat": -34.35,
-    "lon": -58.7833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.7833
   },
-  "BER": {
+  {
     "id": "BER",
     "nombre": "Berazategui",
     "tipo": "Ciudad",
@@ -1556,10 +1427,9 @@
     "pais": "Argentina",
     "elevacion": 19,
     "lat": -34.7667,
-    "lon": -58.21,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.21
   },
-  "FVA": {
+  {
     "id": "FVA",
     "nombre": "Florencio Varela",
     "tipo": "Ciudad",
@@ -1568,10 +1438,9 @@
     "pais": "Argentina",
     "elevacion": 22,
     "lat": -34.8167,
-    "lon": -58.3833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.3833
   },
-  "ENS": {
+  {
     "id": "ENS",
     "nombre": "Ensenada",
     "tipo": "Ciudad",
@@ -1580,10 +1449,9 @@
     "pais": "Argentina",
     "elevacion": 5,
     "lat": -34.8589,
-    "lon": -57.9114,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.9114
   },
-  "BEB": {
+  {
     "id": "BEB",
     "nombre": "Berisso",
     "tipo": "Ciudad",
@@ -1592,10 +1460,9 @@
     "pais": "Argentina",
     "elevacion": 4,
     "lat": -34.8744,
-    "lon": -57.8825,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.8825
   },
-  "CAN": {
+  {
     "id": "CAN",
     "nombre": "Cañuelas",
     "tipo": "Ciudad",
@@ -1604,10 +1471,9 @@
     "pais": "Argentina",
     "elevacion": 36,
     "lat": -35.05,
-    "lon": -58.75,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.75
   },
-  "LOB": {
+  {
     "id": "LOB",
     "nombre": "Lobos",
     "tipo": "Ciudad",
@@ -1616,10 +1482,9 @@
     "pais": "Argentina",
     "elevacion": 30,
     "lat": -35.1833,
-    "lon": -59.0833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.0833
   },
-  "ROQ": {
+  {
     "id": "ROQ",
     "nombre": "Roque Pérez",
     "tipo": "Ciudad",
@@ -1628,10 +1493,9 @@
     "pais": "Argentina",
     "elevacion": 34,
     "lat": -35.4167,
-    "lon": -59.3333,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.3333
   },
-  "PAT": {
+  {
     "id": "PAT",
     "nombre": "Patagones",
     "tipo": "Ciudad",
@@ -1640,10 +1504,9 @@
     "pais": "Argentina",
     "elevacion": 40,
     "lat": -40.8,
-    "lon": -62.9833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -62.9833
   },
-  "BAR": {
+  {
     "id": "BAR",
     "nombre": "Baradero",
     "tipo": "Ciudad",
@@ -1652,10 +1515,9 @@
     "pais": "Argentina",
     "elevacion": 28,
     "lat": -33.8103,
-    "lon": -59.5075,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.5075
   },
-  "SAN": {
+  {
     "id": "SAN",
     "nombre": "San Pedro",
     "tipo": "Ciudad",
@@ -1664,10 +1526,9 @@
     "pais": "Argentina",
     "elevacion": 42,
     "lat": -33.6789,
-    "lon": -59.6667,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.6667
   },
-  "RAM": {
+  {
     "id": "RAM",
     "nombre": "Ramallo",
     "tipo": "Ciudad",
@@ -1676,10 +1537,9 @@
     "pais": "Argentina",
     "elevacion": 31,
     "lat": -33.4833,
-    "lon": -60.0,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60
   },
-  "ARS": {
+  {
     "id": "ARS",
     "nombre": "Arrecifes",
     "tipo": "Ciudad",
@@ -1688,10 +1548,9 @@
     "pais": "Argentina",
     "elevacion": 47,
     "lat": -34.0667,
-    "lon": -60.1,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -60.1
   },
-  "SAA": {
+  {
     "id": "SAA",
     "nombre": "San Antonio de Areco",
     "tipo": "Ciudad",
@@ -1700,10 +1559,9 @@
     "pais": "Argentina",
     "elevacion": 39,
     "lat": -34.25,
-    "lon": -59.4667,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.4667
   },
-  "MAD": {
+  {
     "id": "MAD",
     "nombre": "Magdalena",
     "tipo": "Ciudad",
@@ -1712,10 +1570,9 @@
     "pais": "Argentina",
     "elevacion": 23,
     "lat": -35.0833,
-    "lon": -57.5167,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.5167
   },
-  "CHS": {
+  {
     "id": "CHS",
     "nombre": "Chascomús",
     "tipo": "Ciudad",
@@ -1724,10 +1581,9 @@
     "pais": "Argentina",
     "elevacion": 9,
     "lat": -35.5833,
-    "lon": -58.0167,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.0167
   },
-  "DOL": {
+  {
     "id": "DOL",
     "nombre": "Dolores",
     "tipo": "Ciudad",
@@ -1736,10 +1592,9 @@
     "pais": "Argentina",
     "elevacion": 7,
     "lat": -36.3133,
-    "lon": -57.6789,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.6789
   },
-  "MAB": {
+  {
     "id": "MAB",
     "nombre": "Maipú",
     "tipo": "Ciudad",
@@ -1748,10 +1603,9 @@
     "pais": "Argentina",
     "elevacion": 16,
     "lat": -36.8667,
-    "lon": -57.8833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -57.8833
   },
-  "AYA": {
+  {
     "id": "AYA",
     "nombre": "Ayacucho",
     "tipo": "Ciudad",
@@ -1760,10 +1614,9 @@
     "pais": "Argentina",
     "elevacion": 71,
     "lat": -37.15,
-    "lon": -58.4833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.4833
   },
-  "RAU": {
+  {
     "id": "RAU",
     "nombre": "Rauch",
     "tipo": "Ciudad",
@@ -1772,10 +1625,9 @@
     "pais": "Argentina",
     "elevacion": 86,
     "lat": -36.7833,
-    "lon": -59.0833,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.0833
   },
-  "LFL": {
+  {
     "id": "LFL",
     "nombre": "Las Flores",
     "tipo": "Ciudad",
@@ -1784,10 +1636,9 @@
     "pais": "Argentina",
     "elevacion": 44,
     "lat": -36.0167,
-    "lon": -59.1,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -59.1
   },
-  "TAP": {
+  {
     "id": "TAP",
     "nombre": "Tapiales",
     "tipo": "Ciudad",
@@ -1796,10 +1647,9 @@
     "pais": "Argentina",
     "elevacion": 19,
     "lat": -34.7,
-    "lon": -58.5167,
-    "zona_horaria": "America/Argentina/Buenos_Aires"
+    "lon": -58.5167
   },
-  "ROS": {
+  {
     "id": "ROS",
     "nombre": "Rosario",
     "tipo": "Ciudad",
@@ -1808,13 +1658,9 @@
     "pais": "Argentina",
     "elevacion": 25,
     "lat": -32.9575,
-    "lon": -60.6394,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 1400000,
-    "codigo_postal": "2000",
-    "fundacion": 1852
+    "lon": -60.6394
   },
-  "SFE": {
+  {
     "id": "SFE",
     "nombre": "Santa Fe",
     "tipo": "Ciudad Capital",
@@ -1823,13 +1669,9 @@
     "pais": "Argentina",
     "elevacion": 18,
     "lat": -31.6333,
-    "lon": -60.7,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 545000,
-    "codigo_postal": "3000",
-    "fundacion": 1573
+    "lon": -60.7
   },
-  "RAF": {
+  {
     "id": "RAF",
     "nombre": "Rafaela",
     "tipo": "Ciudad",
@@ -1838,13 +1680,9 @@
     "pais": "Argentina",
     "elevacion": 100,
     "lat": -31.2503,
-    "lon": -61.4867,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 100000,
-    "codigo_postal": "2300",
-    "fundacion": 1881
+    "lon": -61.4867
   },
-  "VTO": {
+  {
     "id": "VTO",
     "nombre": "Venado Tuerto",
     "tipo": "Ciudad",
@@ -1853,13 +1691,9 @@
     "pais": "Argentina",
     "elevacion": 112,
     "lat": -33.7458,
-    "lon": -61.9649,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 82000,
-    "codigo_postal": "2600",
-    "fundacion": 1884
+    "lon": -61.9649
   },
-  "REC": {
+  {
     "id": "REC",
     "nombre": "Reconquista",
     "tipo": "Ciudad",
@@ -1868,13 +1702,9 @@
     "pais": "Argentina",
     "elevacion": 42,
     "lat": -29.1425,
-    "lon": -59.6442,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 73000,
-    "codigo_postal": "3560",
-    "fundacion": 1872
+    "lon": -59.6442
   },
-  "ESP": {
+  {
     "id": "ESP",
     "nombre": "Esperanza",
     "tipo": "Ciudad",
@@ -1883,13 +1713,9 @@
     "pais": "Argentina",
     "elevacion": 40,
     "lat": -31.45,
-    "lon": -60.9333,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 42082,
-    "codigo_postal": "3080",
-    "fundacion": 1856
+    "lon": -60.9333
   },
-  "GALSF": {
+  {
     "id": "GALSF",
     "nombre": "Gálvez",
     "tipo": "Ciudad",
@@ -1898,13 +1724,9 @@
     "pais": "Argentina",
     "elevacion": 44,
     "lat": -32.0333,
-    "lon": -61.2167,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 19000,
-    "codigo_postal": "2252",
-    "fundacion": 1886
+    "lon": -61.2167
   },
-  "SAP": {
+  {
     "id": "SAP",
     "nombre": "San Lorenzo",
     "tipo": "Ciudad",
@@ -1913,13 +1735,9 @@
     "pais": "Argentina",
     "elevacion": 23,
     "lat": -32.745,
-    "lon": -60.7397,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 46239,
-    "codigo_postal": "2200",
-    "fundacion": 1796
+    "lon": -60.7397
   },
-  "CAS": {
+  {
     "id": "CAS",
     "nombre": "Casilda",
     "tipo": "Ciudad",
@@ -1928,13 +1746,9 @@
     "pais": "Argentina",
     "elevacion": 84,
     "lat": -33.0442,
-    "lon": -61.1681,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 35058,
-    "codigo_postal": "2170",
-    "fundacion": 1870
+    "lon": -61.1681
   },
-  "CANSF": {
+  {
     "id": "CANSF",
     "nombre": "Cañada de Gómez",
     "tipo": "Ciudad",
@@ -1943,13 +1757,9 @@
     "pais": "Argentina",
     "elevacion": 98,
     "lat": -32.8167,
-    "lon": -61.3833,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 29833,
-    "codigo_postal": "2500",
-    "fundacion": 1866
+    "lon": -61.3833
   },
-  "SJN": {
+  {
     "id": "SJN",
     "nombre": "San Justo",
     "tipo": "Ciudad",
@@ -1958,13 +1768,9 @@
     "pais": "Argentina",
     "elevacion": 59,
     "lat": -30.7833,
-    "lon": -60.5833,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 40904,
-    "codigo_postal": "3040",
-    "fundacion": 1868
+    "lon": -60.5833
   },
-  "GCH": {
+  {
     "id": "GCH",
     "nombre": "Gobernador Crespo",
     "tipo": "Ciudad",
@@ -1973,13 +1779,9 @@
     "pais": "Argentina",
     "elevacion": 57,
     "lat": -30.3667,
-    "lon": -60.4,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 6000,
-    "codigo_postal": "3044",
-    "fundacion": 1891
+    "lon": -60.4
   },
-  "SCA": {
+  {
     "id": "SCA",
     "nombre": "San Carlos Centro",
     "tipo": "Ciudad",
@@ -1988,13 +1790,9 @@
     "pais": "Argentina",
     "elevacion": 45,
     "lat": -31.7333,
-    "lon": -61.0833,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 11055,
-    "codigo_postal": "3013",
-    "fundacion": 1859
+    "lon": -61.0833
   },
-  "TOT": {
+  {
     "id": "TOT",
     "nombre": "Totoras",
     "tipo": "Ciudad",
@@ -2003,13 +1801,9 @@
     "pais": "Argentina",
     "elevacion": 67,
     "lat": -32.5833,
-    "lon": -61.1667,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 10500,
-    "codigo_postal": "2144",
-    "fundacion": 1875
+    "lon": -61.1667
   },
-  "FUN": {
+  {
     "id": "FUN",
     "nombre": "Funes",
     "tipo": "Ciudad",
@@ -2018,13 +1812,9 @@
     "pais": "Argentina",
     "elevacion": 32,
     "lat": -32.9167,
-    "lon": -60.8167,
-    "zona_horaria": "America/Argentina/Cordoba",
-    "poblacion": 23520,
-    "codigo_postal": "2132",
-    "fundacion": 1875
+    "lon": -60.8167
   },
-  "LRJ": {
+  {
     "id": "LRJ",
     "nombre": "La Rioja",
     "tipo": "Ciudad Capital",
@@ -2033,14 +1823,9 @@
     "pais": "Argentina",
     "elevacion": 515,
     "lat": -29.4131,
-    "lon": -66.8558,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 180995,
-    "codigo_postal": "5300",
-    "fundacion": 1591,
-    "actividad_principal": "Administración pública, comercio y servicios"
+    "lon": -66.8558
   },
-  "CHILR": {
+  {
     "id": "CHILR",
     "nombre": "Chilecito",
     "tipo": "Ciudad",
@@ -2049,14 +1834,9 @@
     "pais": "Argentina",
     "elevacion": 945,
     "lat": -29.1667,
-    "lon": -67.5,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 49432,
-    "codigo_postal": "5360",
-    "fundacion": 1715,
-    "actividad_principal": "Vitivinicultura y agricultura"
+    "lon": -67.5
   },
-  "AIM": {
+  {
     "id": "AIM",
     "nombre": "Aimogasta",
     "tipo": "Ciudad",
@@ -2065,14 +1845,9 @@
     "pais": "Argentina",
     "elevacion": 800,
     "lat": -28.5667,
-    "lon": -66.8,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 15000,
-    "codigo_postal": "5310",
-    "fundacion": 1783,
-    "actividad_principal": "Olivicultura y agricultura"
+    "lon": -66.8
   },
-  "CHA": {
+  {
     "id": "CHA",
     "nombre": "Chamical",
     "tipo": "Ciudad",
@@ -2081,14 +1856,9 @@
     "pais": "Argentina",
     "elevacion": 461,
     "lat": -30.35,
-    "lon": -66.3167,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 14160,
-    "codigo_postal": "5380",
-    "fundacion": 1875,
-    "actividad_principal": "Ganadería y agricultura"
+    "lon": -66.3167
   },
-  "CHE": {
+  {
     "id": "CHE",
     "nombre": "Chepes",
     "tipo": "Ciudad",
@@ -2097,14 +1867,9 @@
     "pais": "Argentina",
     "elevacion": 1005,
     "lat": -31.3333,
-    "lon": -66.5833,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 12000,
-    "codigo_postal": "5470",
-    "fundacion": 1797,
-    "actividad_principal": "Ganadería caprina"
+    "lon": -66.5833
   },
-  "FME": {
+  {
     "id": "FME",
     "nombre": "Famatina",
     "tipo": "Villa",
@@ -2113,14 +1878,9 @@
     "pais": "Argentina",
     "elevacion": 1479,
     "lat": -28.9167,
-    "lon": -67.5167,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 2492,
-    "codigo_postal": "5350",
-    "fundacion": 1592,
-    "actividad_principal": "Agricultura y turismo"
+    "lon": -67.5167
   },
-  "VUN": {
+  {
     "id": "VUN",
     "nombre": "Villa Unión",
     "tipo": "Ciudad",
@@ -2129,14 +1889,9 @@
     "pais": "Argentina",
     "elevacion": 1220,
     "lat": -29.3167,
-    "lon": -68.2333,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 4100,
-    "codigo_postal": "5350",
-    "fundacion": 1776,
-    "actividad_principal": "Turismo y agricultura"
+    "lon": -68.2333
   },
-  "VMALR": {
+  {
     "id": "VMA",
     "nombre": "Villa Mazán",
     "tipo": "Villa",
@@ -2145,14 +1900,9 @@
     "pais": "Argentina",
     "elevacion": 730,
     "lat": -28.6667,
-    "lon": -66.5333,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 3500,
-    "codigo_postal": "5313",
-    "fundacion": 1714,
-    "actividad_principal": "Olivicultura"
+    "lon": -66.5333
   },
-  "VCALR": {
+  {
     "id": "VCALR",
     "nombre": "Villa Castelli",
     "tipo": "Villa",
@@ -2161,14 +1911,9 @@
     "pais": "Argentina",
     "elevacion": 1210,
     "lat": -28.9833,
-    "lon": -68.25,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 2800,
-    "codigo_postal": "5355",
-    "fundacion": 1776,
-    "actividad_principal": "Agricultura y turismo"
+    "lon": -68.25
   },
-  "ANI": {
+  {
     "id": "ANI",
     "nombre": "Anillaco",
     "tipo": "Villa",
@@ -2177,14 +1922,9 @@
     "pais": "Argentina",
     "elevacion": 1320,
     "lat": -28.8,
-    "lon": -66.9333,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 1400,
-    "codigo_postal": "5317",
-    "fundacion": 1640,
-    "actividad_principal": "Vitivinicultura"
+    "lon": -66.9333
   },
-  "VBE": {
+  {
     "id": "VBE",
     "nombre": "Vinchina",
     "tipo": "Villa",
@@ -2193,14 +1933,9 @@
     "pais": "Argentina",
     "elevacion": 1450,
     "lat": -28.75,
-    "lon": -68.2,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 2800,
-    "codigo_postal": "5357",
-    "fundacion": 1860,
-    "actividad_principal": "Agricultura y ganadería"
+    "lon": -68.2
   },
-  "SAB": {
+  {
     "id": "SAB",
     "nombre": "Sanagasta",
     "tipo": "Villa",
@@ -2209,14 +1944,9 @@
     "pais": "Argentina",
     "elevacion": 1050,
     "lat": -29.2833,
-    "lon": -67.0167,
-    "zona_horaria": "America/Argentina/La_Rioja",
-    "poblacion": 2300,
-    "codigo_postal": "5301",
-    "fundacion": 1640,
-    "actividad_principal": "Turismo y agricultura"
+    "lon": -67.0167
   },
-  "SJNSJ": {
+  {
     "id": "SJNSJ",
     "nombre": "San Juan",
     "tipo": "Ciudad Capital",
@@ -2225,15 +1955,9 @@
     "pais": "Argentina",
     "elevacion": 650,
     "lat": -31.5375,
-    "lon": -68.5364,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 513000,
-    "codigo_postal": "5400",
-    "fundacion": 1562,
-    "actividad_principal": "Administración pública, comercio y servicios",
-    "atractivos": "Catedral, Casa Natal de Sarmiento, Auditorio Juan Victoria"
+    "lon": -68.5364
   },
-  "RAW": {
+  {
     "id": "RAW",
     "nombre": "Rawson",
     "tipo": "Ciudad",
@@ -2242,14 +1966,9 @@
     "pais": "Argentina",
     "elevacion": 640,
     "lat": -31.5833,
-    "lon": -68.5333,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 90000,
-    "codigo_postal": "5425",
-    "fundacion": 1875,
-    "actividad_principal": "Agricultura, industria"
+    "lon": -68.5333
   },
-  "POC": {
+  {
     "id": "POC",
     "nombre": "Pocito",
     "tipo": "Ciudad",
@@ -2258,13 +1977,9 @@
     "pais": "Argentina",
     "elevacion": 618,
     "lat": -31.6833,
-    "lon": -68.5833,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 53162,
-    "codigo_postal": "5429",
-    "actividad_principal": "Agricultura, vitivinicultura"
+    "lon": -68.5833
   },
-  "CAU": {
+  {
     "id": "CAU",
     "nombre": "Caucete",
     "tipo": "Ciudad",
@@ -2273,14 +1988,9 @@
     "pais": "Argentina",
     "elevacion": 590,
     "lat": -31.6519,
-    "lon": -68.2794,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 42013,
-    "codigo_postal": "5442",
-    "fundacion": 1893,
-    "actividad_principal": "Vitivinicultura, olivicultura"
+    "lon": -68.2794
   },
-  "CHISJ": {
+  {
     "id": "CHISJ",
     "nombre": "Chimbas",
     "tipo": "Ciudad",
@@ -2289,13 +1999,9 @@
     "pais": "Argentina",
     "elevacion": 645,
     "lat": -31.4833,
-    "lon": -68.5333,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 87258,
-    "codigo_postal": "5413",
-    "actividad_principal": "Industria, comercio"
+    "lon": -68.5333
   },
-  "RIV": {
+  {
     "id": "RIV",
     "nombre": "Rivadavia",
     "tipo": "Ciudad",
@@ -2304,13 +2010,9 @@
     "pais": "Argentina",
     "elevacion": 660,
     "lat": -31.5333,
-    "lon": -68.6,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 82641,
-    "codigo_postal": "5400",
-    "actividad_principal": "Comercio, servicios"
+    "lon": -68.6
   },
-  "ALB": {
+  {
     "id": "ALB",
     "nombre": "Albardón",
     "tipo": "Ciudad",
@@ -2319,13 +2021,9 @@
     "pais": "Argentina",
     "elevacion": 630,
     "lat": -31.4372,
-    "lon": -68.5253,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 23888,
-    "codigo_postal": "5419",
-    "actividad_principal": "Agricultura, vitivinicultura"
+    "lon": -68.5253
   },
-  "JAC": {
+  {
     "id": "JAC",
     "nombre": "Jáchal",
     "tipo": "Ciudad",
@@ -2334,15 +2032,9 @@
     "pais": "Argentina",
     "elevacion": 1150,
     "lat": -30.25,
-    "lon": -68.75,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 21730,
-    "codigo_postal": "5460",
-    "fundacion": 1751,
-    "actividad_principal": "Agricultura, minería",
-    "atractivos": "Dique Cuesta del Viento, Iglesia San José"
+    "lon": -68.75
   },
-  "VALSJ": {
+  {
     "id": "VAL",
     "nombre": "Valle Fértil",
     "tipo": "Villa",
@@ -2351,14 +2043,9 @@
     "pais": "Argentina",
     "elevacion": 850,
     "lat": -30.6333,
-    "lon": -67.4667,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 7222,
-    "codigo_postal": "5449",
-    "actividad_principal": "Turismo",
-    "atractivos": "Parque Provincial Ischigualasto"
+    "lon": -67.4667
   },
-  "CAL": {
+  {
     "id": "CAL",
     "nombre": "Calingasta",
     "tipo": "Villa",
@@ -2367,14 +2054,9 @@
     "pais": "Argentina",
     "elevacion": 1550,
     "lat": -31.3333,
-    "lon": -69.4167,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 8588,
-    "codigo_postal": "5405",
-    "actividad_principal": "Minería, turismo",
-    "atractivos": "Barreal, Pampa del Leoncito"
+    "lon": -69.4167
   },
-  "SAR": {
+  {
     "id": "SAR",
     "nombre": "Sarmiento",
     "tipo": "Villa",
@@ -2383,13 +2065,9 @@
     "pais": "Argentina",
     "elevacion": 540,
     "lat": -32.15,
-    "lon": -68.5833,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 22131,
-    "codigo_postal": "5435",
-    "actividad_principal": "Agricultura, vitivinicultura"
+    "lon": -68.5833
   },
-  "BARSJ": {
+  {
     "id": "BARSJ",
     "nombre": "Barreal",
     "tipo": "Villa",
@@ -2398,14 +2076,9 @@
     "pais": "Argentina",
     "elevacion": 1650,
     "lat": -31.4833,
-    "lon": -69.4667,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 3200,
-    "codigo_postal": "5405",
-    "actividad_principal": "Turismo",
-    "atractivos": "Observatorio Astronómico El Leoncito, Cerro Mercedario"
+    "lon": -69.4667
   },
-  "IGE": {
+  {
     "id": "IGE",
     "nombre": "Iglesia",
     "tipo": "Villa",
@@ -2414,14 +2087,9 @@
     "pais": "Argentina",
     "elevacion": 1680,
     "lat": -29.5833,
-    "lon": -69.2833,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 9099,
-    "codigo_postal": "5467",
-    "actividad_principal": "Turismo, minería",
-    "atractivos": "Rodeo, Dique Cuesta del Viento"
+    "lon": -69.2833
   },
-  "ROD": {
+  {
     "id": "ROD",
     "nombre": "Rodeo",
     "tipo": "Villa",
@@ -2430,14 +2098,9 @@
     "pais": "Argentina",
     "elevacion": 1700,
     "lat": -30.2167,
-    "lon": -69.1333,
-    "zona_horaria": "America/Argentina/San_Juan",
-    "poblacion": 2400,
-    "codigo_postal": "5467",
-    "actividad_principal": "Turismo",
-    "atractivos": "Dique Cuesta del Viento, deportes náuticos"
+    "lon": -69.1333
   },
-  "NQN": {
+  {
     "id": "NQN",
     "nombre": "Neuquén",
     "tipo": "Ciudad Capital",
@@ -2446,15 +2109,9 @@
     "pais": "Argentina",
     "elevacion": 260,
     "lat": -38.9517,
-    "lon": -68.0592,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 362673,
-    "codigo_postal": "8300",
-    "fundacion": 1904,
-    "actividad_principal": "Servicios, administración pública, hidrocarburos",
-    "atractivos": "Museo Nacional de Bellas Artes, Parque Central"
+    "lon": -68.0592
   },
-  "CUT": {
+  {
     "id": "CUT",
     "nombre": "Cutral Có",
     "tipo": "Ciudad",
@@ -2463,14 +2120,9 @@
     "pais": "Argentina",
     "elevacion": 582,
     "lat": -38.9333,
-    "lon": -69.2333,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 36162,
-    "codigo_postal": "8322",
-    "fundacion": 1933,
-    "actividad_principal": "Petróleo, industria"
+    "lon": -69.2333
   },
-  "SMD": {
+  {
     "id": "SMD",
     "nombre": "San Martín de los Andes",
     "tipo": "Ciudad",
@@ -2479,15 +2131,9 @@
     "pais": "Argentina",
     "elevacion": 640,
     "lat": -40.1553,
-    "lon": -71.3548,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 36584,
-    "codigo_postal": "8370",
-    "fundacion": 1898,
-    "actividad_principal": "Turismo",
-    "atractivos": "Cerro Chapelco, Lago Lácar"
+    "lon": -71.3548
   },
-  "VLANQ": {
+  {
     "id": "VLANQ",
     "nombre": "Villa La Angostura",
     "tipo": "Ciudad",
@@ -2496,15 +2142,9 @@
     "pais": "Argentina",
     "elevacion": 780,
     "lat": -40.7626,
-    "lon": -71.6422,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 13000,
-    "codigo_postal": "8407",
-    "fundacion": 1932,
-    "actividad_principal": "Turismo",
-    "atractivos": "Cerro Bayo, Parque Nacional Los Arrayanes"
+    "lon": -71.6422
   },
-  "ZAP": {
+  {
     "id": "ZAP",
     "nombre": "Zapala",
     "tipo": "Ciudad",
@@ -2513,14 +2153,9 @@
     "pais": "Argentina",
     "elevacion": 1012,
     "lat": -38.9,
-    "lon": -70.0667,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 32355,
-    "codigo_postal": "8340",
-    "fundacion": 1913,
-    "actividad_principal": "Minería, comercio"
+    "lon": -70.0667
   },
-  "PMANQ": {
+  {
     "id": "PMANQ",
     "nombre": "Plaza Huincul",
     "tipo": "Ciudad",
@@ -2529,14 +2164,9 @@
     "pais": "Argentina",
     "elevacion": 582,
     "lat": -38.93,
-    "lon": -69.2,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 13532,
-    "codigo_postal": "8318",
-    "fundacion": 1918,
-    "actividad_principal": "Petróleo"
+    "lon": -69.2
   },
-  "CIP": {
+  {
     "id": "CIP",
     "nombre": "Cipolletti",
     "tipo": "Ciudad",
@@ -2545,14 +2175,9 @@
     "pais": "Argentina",
     "elevacion": 265,
     "lat": -38.9333,
-    "lon": -67.99,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 87322,
-    "codigo_postal": "8324",
-    "fundacion": 1903,
-    "actividad_principal": "Fruticultura, servicios"
+    "lon": -67.99
   },
-  "CEN": {
+  {
     "id": "CEN",
     "nombre": "Centenario",
     "tipo": "Ciudad",
@@ -2561,14 +2186,9 @@
     "pais": "Argentina",
     "elevacion": 273,
     "lat": -38.8333,
-    "lon": -68.1333,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 34421,
-    "codigo_postal": "8309",
-    "fundacion": 1922,
-    "actividad_principal": "Fruticultura, hidrocarburos"
+    "lon": -68.1333
   },
-  "JUA": {
+  {
     "id": "JUA",
     "nombre": "Junín de los Andes",
     "tipo": "Ciudad",
@@ -2577,15 +2197,9 @@
     "pais": "Argentina",
     "elevacion": 765,
     "lat": -39.95,
-    "lon": -71.0833,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 13086,
-    "codigo_postal": "8371",
-    "fundacion": 1883,
-    "actividad_principal": "Turismo, ganadería",
-    "atractivos": "Pesca, Parque Nacional Lanín"
+    "lon": -71.0833
   },
-  "ALU": {
+  {
     "id": "ALU",
     "nombre": "Aluminé",
     "tipo": "Ciudad",
@@ -2594,14 +2208,9 @@
     "pais": "Argentina",
     "elevacion": 800,
     "lat": -39.2333,
-    "lon": -70.9167,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 4861,
-    "codigo_postal": "8345",
-    "fundacion": 1915,
-    "actividad_principal": "Turismo, ganadería"
+    "lon": -70.9167
   },
-  "AND": {
+  {
     "id": "AND",
     "nombre": "Andacollo",
     "tipo": "Ciudad",
@@ -2610,14 +2219,9 @@
     "pais": "Argentina",
     "elevacion": 1113,
     "lat": -37.1833,
-    "lon": -70.6667,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 2653,
-    "codigo_postal": "8353",
-    "fundacion": 1910,
-    "actividad_principal": "Minería, ganadería"
+    "lon": -70.6667
   },
-  "LON": {
+  {
     "id": "LON",
     "nombre": "Loncopué",
     "tipo": "Ciudad",
@@ -2626,13 +2230,9 @@
     "pais": "Argentina",
     "elevacion": 958,
     "lat": -38.0667,
-    "lon": -70.6167,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 5010,
-    "codigo_postal": "8349",
-    "actividad_principal": "Ganadería, agricultura"
+    "lon": -70.6167
   },
-  "PDI": {
+  {
     "id": "PDI",
     "nombre": "Piedra del Águila",
     "tipo": "Ciudad",
@@ -2641,13 +2241,9 @@
     "pais": "Argentina",
     "elevacion": 540,
     "lat": -40.05,
-    "lon": -70.0833,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 3689,
-    "codigo_postal": "8315",
-    "actividad_principal": "Energía hidroeléctrica, ganadería"
+    "lon": -70.0833
   },
-  "VPE": {
+  {
     "id": "VPE",
     "nombre": "Villa Pehuenia",
     "tipo": "Villa",
@@ -2656,12 +2252,6 @@
     "pais": "Argentina",
     "elevacion": 1310,
     "lat": -38.8833,
-    "lon": -71.1833,
-    "zona_horaria": "America/Argentina/Salta",
-    "poblacion": 1500,
-    "codigo_postal": "8345",
-    "fundacion": 1989,
-    "actividad_principal": "Turismo",
-    "atractivos": "Cerro Batea Mahuida, Lagos"
+    "lon": -71.1833
   }
-}
+]
