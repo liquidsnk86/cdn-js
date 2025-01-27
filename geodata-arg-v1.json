@@ -297,6 +297,17 @@
     "lon": -65.55
   },
   {
+    "id": "LSQCH",
+    "nombre": "Los Quebrachos",
+    "tipo": "Paraje",
+    "departamento": "Chacabuco",
+    "provincia": "San Luis",
+    "pais": "Argentina",
+    "elevacion": 505,
+    "lat": -32.53371087067425,
+    "lon": -65.33236762505321
+  },
+  {
     "id": "FRT",
     "nombre": "Fortuna",
     "tipo": "Localidad",
@@ -350,6 +361,39 @@
     "elevacion": 1043,
     "lat": -32.6333333,
     "lon": -65.0166667
+  },
+  {
+    "id": "PCDA",
+    "nombre": "Puerta Colorada",
+    "tipo": "Paraje",
+    "departamento": "Chacabuco",
+    "provincia": "San Luis",
+    "pais": "Argentina",
+    "elevacion": 1043,
+    "lat": -32.53465375023775,
+    "lon": -65.39781592550588
+  },
+  {
+    "id": "DQUPY",
+    "nombre": "Dique Piscu Yacu",
+    "tipo": "Dique",
+    "departamento": "Chacabuco",
+    "provincia": "San Luis",
+    "pais": "Argentina",
+    "elevacion": 1043,
+    "lat": -32.55165804413039,
+    "lon": -64.95882775926705
+  },
+   {
+    "id": "MLCO",
+    "nombre": "Mina Los Cóndores",
+    "tipo": "Pueblo abandonado",
+    "departamento": "Chacabuco",
+    "provincia": "San Luis",
+    "pais": "Argentina",
+    "elevacion": 700,
+    "lat": -32.574783578613356,
+    "lon": -65.3177824267345
   },
   {
     "id": "MDZ",
