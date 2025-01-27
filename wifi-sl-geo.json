@@ -1024,7 +1024,7 @@
   },
   {
     "id": "114",
-    "name5g": "WiFi3.0-SR-21",
+    "name": "WiFi3.0-SR-21",
     "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "9C 8C D8 4F 63 00",
     "MAC5g": "9C 8C D8 4F 63 10",
@@ -1033,7 +1033,7 @@
   },
   {
     "id": "115",
-    "name5g": "WiFi3.0-SR-23",
+    "name": "WiFi3.0-SR-23",
     "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "7C 57 3C 6D 9C 60",
     "MAC5g": "7C 57 3C 6D 9C 70",
@@ -1042,7 +1042,7 @@
   },
   {
     "id": "116",
-    "name5g": "WiFi4.0-SR-25",
+    "name": "WiFi4.0-SR-25",
     "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "CC 88 C7 69 BD 40",
     "MAC5g": "CC 88 C7 69 BD 50",
@@ -1051,7 +1051,7 @@
   },
   {
     "id": "117",
-    "name5g": "WiFi4.0-SR-26",
+    "name": "WiFi4.0-SR-26",
     "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "CC 88 C7 69 B3 80",
     "MAC5g": "CC 88 C7 69 B3 90",
@@ -1060,7 +1060,7 @@
   },
   {
     "id": "118",
-    "name5g": "WiFi4.0-SR-28",
+    "name": "WiFi4.0-SR-28",
     "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "48 2F 6B 8A 72 40",
     "MAC5g": "48 2F 6B 8A 72 50",
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "119",
-    "name5g": "WiFi4.0-SR-29",
+    "name": "WiFi4.0-SR-29",
     "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "6C C4 9F 7B 65 40",
     "MAC5g": "6C C4 9F 7B 65 50",
