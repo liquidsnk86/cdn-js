@@ -379,7 +379,7 @@
     "id": "44",
     "name": "GobSL-TI-12",
     "name5g": "WiFi3.0-TI-12",
-    "type": "2.4Ghz | 5Ghz",
+    "type": "Dual Band 2.4Ghz | 5Ghz",
     "MAC": "7C 57 3C 6C F8 01",
     "MAC5g": "7C 57 3C 6C F8 10",
     "lat": -32.73995467479537,
