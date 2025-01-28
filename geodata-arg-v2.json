@@ -62,8 +62,8 @@
     "provincia": "San Luis",
     "pais": "Argentina",
     "elevacion": 725,
-    "lat": -33.05,
-    "lon": -65.6166667
+    "lat": -33.05519912516091,
+    "lon": -65.61789790765415
   },
   {
     "id": "CNT",
@@ -95,8 +95,8 @@
     "provincia": "San Luis",
     "pais": "Argentina",
     "elevacion": 506,
-    "lat": -32.2333333,
-    "lon": -65.8
+    "lat": -32.23284188561628,
+    "lon": -65.80509183764627
   },
   {
     "id": "SFM",
@@ -139,8 +139,8 @@
     "provincia": "San Luis",
     "pais": "Argentina",
     "elevacion": 380,
-    "lat": -34.7666667,
-    "lon": -65.25
+    "lat": -34.75798354298443,
+    "lon": -65.25372994707907
   },
   {
     "id": "NGL",
@@ -199,14 +199,25 @@
   },
   {
     "id": "LJR",
-    "nombre": "La Jarilla",
+    "nombre": "Beazley",
     "tipo": "Localidad",
-    "departamento": "General Pedernera",
+    "departamento": "Juan Martín de Pueyrredon",
     "provincia": "San Luis",
     "pais": "Argentina",
     "elevacion": 495,
-    "lat": -33.65,
-    "lon": -65.3833333
+    "lat": -33.757608954422864,
+    "lon": -66.64481404808576
+  },
+  {
+    "id": "PNSLQ",
+    "nombre": "Sierra de las Quijadas",
+    "tipo": "Parque Nacional",
+    "departamento": "Belgrano",
+    "provincia": "San Luis",
+    "pais": "Argentina",
+    "elevacion": 495,
+    "lat": -32.542487461930875,
+    "lon": -67.02412385908121
   },
   {
     "id": "LPT",
@@ -260,8 +271,8 @@
     "provincia": "San Luis",
     "pais": "Argentina",
     "elevacion": 1067,
-    "lat": -32.5,
-    "lon": -65
+    "lat": -32.50524225956534,
+    "lon": -64.99212846621589
   },
   {
     "id": "PPC",
@@ -375,7 +386,7 @@
   },
   {
     "id": "DQUPY",
-    "nombre": "Dique Piscu Yacu",
+    "nombre": "Dique Piscu Yaco",
     "tipo": "Dique",
     "departamento": "Chacabuco",
     "provincia": "San Luis",
