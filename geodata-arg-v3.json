@@ -230,6 +230,17 @@
     "lat": -33.1833333,
     "lon": -66.3166667
   },
+   {
+    "id": "ESTG",
+    "nombre": "Estancia Grande",
+    "tipo": "Villa Turística",
+    "departamento": "Juan Martín de Pueyrredón",
+    "provincia": "San Luis",
+    "pais": "Argentina",
+    "elevacion": 861,
+    "lat": -33.19459460617043,
+    "lon": -66.15989824777664
+  },
   {
     "id": "CNL",
     "nombre": "Candelaria",
