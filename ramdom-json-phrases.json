@@ -3,308 +3,503 @@
     "frases": [
       {
         "id": 1,
-        "texto": "Solo sé que no sé nada.",
-        "autor": "Sócrates"
-      },
-      {
-        "id": 2,
-        "texto": "El que tiene un porqué para vivir puede soportar casi cualquier cómo.",
-        "autor": "Friedrich Nietzsche"
-      },
-      {
-        "id": 3,
-        "texto": "La felicidad de tu vida depende de la calidad de tus pensamientos. Por tanto, cuida que no sean pensamientos descuidados y ajenos a la virtud.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 4,
-        "texto": "El hombre es la medida de todas las cosas.",
-        "autor": "Protágoras"
-      },
-      {
-        "id": 5,
-        "texto": "La vida no examinada no merece ser vivida.",
-        "autor": "Sócrates"
-      },
-      {
-        "id": 6,
-        "texto": "El arte de vivir se asemeja más a la lucha que a la danza, ya que requiere estar preparado y firme ante golpes inesperados.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 7,
-        "texto": "La mayor gloria no es nunca caer, sino levantarse siempre.",
-        "autor": "Nelson Mandela"
-      },
-      {
-        "id": 8,
-        "texto": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 9,
-        "texto": "El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice.",
-        "autor": "Aristóteles"
-      },
-      {
-        "id": 10,
-        "texto": "La duda es uno de los nombres de la inteligencia.",
-        "autor": "Jorge Luis Borges"
-      },
-      {
-        "id": 11,
-        "texto": "No hay viento favorable para el que no sabe a dónde va.",
-        "autor": "Séneca"
-      },
-      {
-        "id": 12,
-        "texto": "Si estás angustiado por algo externo, el dolor no se debe a la cosa en sí, sino a tu interpretación de ella.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 13,
-        "texto": "El hombre es lo que hace con lo que hicieron de él.",
-        "autor": "Jean-Paul Sartre"
-      },
-      {
-        "id": 14,
-        "texto": "La libertad no es hacer lo que queremos, sino querer lo que hacemos.",
-        "autor": "Jean-Paul Sartre"
-      },
-      {
-        "id": 15,
-        "texto": "Quien tiene un porqué para vivir encontrará casi siempre el cómo.",
-        "autor": "Viktor Frankl"
-      },
-      {
-        "id": 16,
-        "texto": "No son los más fuertes de la especie los que sobreviven, ni los más inteligentes, sino los que responden mejor al cambio.",
-        "autor": "Charles Darwin"
-      },
-      {
-        "id": 17,
-        "texto": "La paciencia es amarga, pero sus frutos son dulces.",
-        "autor": "Jean-Jacques Rousseau"
-      },
-      {
-        "id": 18,
-        "texto": "El conocimiento habla, pero la sabiduría escucha.",
-        "autor": "Jimi Hendrix"
-      },
-      {
-        "id": 19,
-        "texto": "Si deseas tranquilidad, haz menos. O, más precisamente, haz sólo lo esencial.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 20,
-        "texto": "La vida es realmente simple, pero insistimos en hacerla complicada.",
-        "autor": "Confucio"
-      },
-      {
-        "id": 21,
-        "texto": "El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en mirar con nuevos ojos.",
-        "autor": "Marcel Proust"
-      },
-      {
-        "id": 22,
-        "texto": "Lo que sabemos es una gota de agua; lo que ignoramos es el océano.",
-        "autor": "Isaac Newton"
-      },
-      {
-        "id": 23,
-        "texto": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
-        "autor": "Nelson Mandela"
-      },
-      {
-        "id": 24,
-        "texto": "No hay camino para la paz, la paz es el camino.",
-        "autor": "Mahatma Gandhi"
-      },
-      {
-        "id": 25,
-        "texto": "El que lucha con monstruos debe tener cuidado de no convertirse él mismo en un monstruo.",
-        "autor": "Friedrich Nietzsche"
-      },
-      {
-        "id": 26,
-        "texto": "La verdad es hija del tiempo, no de la autoridad.",
-        "autor": "Francis Bacon"
-      },
-      {
-        "id": 27,
-        "texto": "El universo es cambio; nuestra vida es lo que nuestros pensamientos hacen de ella.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 28,
-        "texto": "La felicidad no es algo prefabricado. Viene de tus propias acciones.",
-        "autor": "Dalai Lama"
-      },
-      {
-        "id": 29,
-        "texto": "El tiempo es la imagen móvil de la eternidad inmóvil.",
-        "autor": "Platón"
-      },
-      {
-        "id": 30,
-        "texto": "La belleza perece en la vida, pero es inmortal en el arte.",
-        "autor": "Leonardo da Vinci"
-      },
-      {
-        "id": 31,
-        "texto": "Lo que no te mata te hace más fuerte.",
-        "autor": "Friedrich Nietzsche"
-      },
-      {
-        "id": 32,
-        "texto": "El presente es la única realidad que tenemos.",
-        "autor": "Buda"
-      },
-      {
-        "id": 33,
-        "texto": "La imaginación es más importante que el conocimiento.",
+        "texto": "La mente es como un paracaídas: solo funciona si se abre.",
         "autor": "Albert Einstein"
       },
       {
-        "id": 34,
-        "texto": "No hay mayor poder que el conocimiento de uno mismo.",
-        "autor": "Lao Tse"
+        "id": 2,
+        "texto": "El silencio es a veces la mejor respuesta.",
+        "autor": "Dalai Lama"
       },
       {
-        "id": 35,
-        "texto": "El amor es la fuerza más poderosa del universo.",
-        "autor": "Martin Luther King Jr."
+        "id": 3,
+        "texto": "Quien abre una puerta de una escuela, cierra una de una prisión.",
+        "autor": "Victor Hugo"
       },
       {
-        "id": 36,
-        "texto": "Los obstáculos son esas cosas atemorizantes que ves cuando apartas los ojos de tu meta.",
-        "autor": "Henry Ford"
+        "id": 4,
+        "texto": "La creatividad es inteligencia divirtiéndose.",
+        "autor": "Albert Einstein"
       },
       {
-        "id": 37,
-        "texto": "Sé el cambio que quieres ver en el mundo.",
-        "autor": "Mahatma Gandhi"
+        "id": 5,
+        "texto": "El carácter es destino.",
+        "autor": "Heráclito"
       },
       {
-        "id": 38,
-        "texto": "La excelencia no es un acto, sino un hábito.",
+        "id": 6,
+        "texto": "La esperanza es el sueño del hombre despierto.",
         "autor": "Aristóteles"
       },
       {
-        "id": 39,
-        "texto": "La justicia sin poder es inútil. El poder sin justicia es tiranía.",
-        "autor": "Blaise Pascal"
+        "id": 7,
+        "texto": "Ningún viento es favorable para el que no sabe adónde va.",
+        "autor": "Séneca"
       },
       {
-        "id": 40,
-        "texto": "Recuerda que tienes poder sobre tu mente, no sobre los eventos externos.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 41,
-        "texto": "El secreto de la existencia humana no solo está en vivir, sino también en saber para qué se vive.",
-        "autor": "Fiódor Dostoievski"
-      },
-      {
-        "id": 42,
-        "texto": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
-        "autor": "John Lennon"
-      },
-      {
-        "id": 43,
-        "texto": "El hombre es libre en el momento en que desea serlo.",
-        "autor": "Voltaire"
-      },
-      {
-        "id": 44,
-        "texto": "La verdadera sabiduría está en reconocer la propia ignorancia.",
-        "autor": "Sócrates"
-      },
-      {
-        "id": 45,
-        "texto": "Sé como el promontorio contra el cual chocan incesantemente las olas: permanece firme.",
-        "autor": "Marco Aurelio"
-      },
-      {
-        "id": 46,
-        "texto": "El arte de ser sabio es el arte de saber qué pasar por alto.",
-        "autor": "William James"
-      },
-      {
-        "id": 47,
-        "texto": "La vida debe ser comprendida hacia atrás, pero debe ser vivida hacia adelante.",
-        "autor": "Søren Kierkegaard"
-      },
-      {
-        "id": 48,
-        "texto": "La duda es el principio de la sabiduría.",
-        "autor": "Aristóteles"
-      },
-      {
-        "id": 49,
-        "texto": "El único verdadero viaje de descubrimiento consiste no en buscar nuevos paisajes, sino en mirar con nuevos ojos.",
-        "autor": "Marcel Proust"
-      },
-      {
-        "id": 50,
-        "texto": "La felicidad no está en la ciencia sino en la adquisición de la ciencia.",
-        "autor": "Edgar Allan Poe"
-      },
-      {
-        "id": 51,
-        "texto": "La música es el arte más cercano a las lágrimas y la memoria.",
-        "autor": "Oscar Wilde"
-      },
-      {
-        "id": 52,
-        "texto": "La pintura es poesía muda; la poesía, pintura ciega.",
+        "id": 8,
+        "texto": "El aprendizaje nunca agota la mente.",
         "autor": "Leonardo da Vinci"
       },
       {
+        "id": 9,
+        "texto": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+        "autor": "Eleanor Roosevelt"
+      },
+      {
+        "id": 10,
+        "texto": "No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas.",
+        "autor": "Robert Louis Stevenson"
+      },
+      {
+        "id": 11,
+        "texto": "El éxito es aprender a ir de fracaso en fracaso sin desesperarse.",
+        "autor": "Winston Churchill"
+      },
+      {
+        "id": 12,
+        "texto": "La amistad duplica las alegrías y divide las angustias por la mitad.",
+        "autor": "Francis Bacon"
+      },
+      {
+        "id": 13,
+        "texto": "Las palabras son gratuitas, es la forma en que las usas lo que puede costar caro.",
+        "autor": "Khalil Gibran"
+      },
+      {
+        "id": 14,
+        "texto": "El viaje de mil millas comienza con un solo paso.",
+        "autor": "Lao Tse"
+      },
+      {
+        "id": 15,
+        "texto": "La libertad comienza donde termina la ignorancia.",
+        "autor": "Victor Hugo"
+      },
+      {
+        "id": 16,
+        "texto": "El coraje no siempre ruge; a veces es la voz baja al final del día que dice: mañana lo intentaré de nuevo.",
+        "autor": "Mary Anne Radmacher"
+      },
+      {
+        "id": 17,
+        "texto": "El hombre nunca sabe de lo que es capaz hasta que lo intenta.",
+        "autor": "Charles Dickens"
+      },
+      {
+        "id": 18,
+        "texto": "La disciplina es el puente entre metas y logros.",
+        "autor": "Jim Rohn"
+      },
+      {
+        "id": 19,
+        "texto": "La vida es un 10% lo que nos ocurre y 90% cómo reaccionamos a ello.",
+        "autor": "Charles R. Swindoll"
+      },
+      {
+        "id": 20,
+        "texto": "Si buscas resultados distintos, no hagas siempre lo mismo.",
+        "autor": "Albert Einstein"
+      },
+      {
+        "id": 21,
+        "texto": "El optimismo es la fe que conduce al logro.",
+        "autor": "Helen Keller"
+      },
+      {
+        "id": 22,
+        "texto": "La gratitud convierte lo que tenemos en suficiente.",
+        "autor": "Aesopo"
+      },
+      {
+        "id": 23,
+        "texto": "Los grandes espíritus siempre han encontrado una violenta oposición de las mentes mediocres.",
+        "autor": "Albert Einstein"
+      },
+      {
+        "id": 24,
+        "texto": "Haz lo que puedas, con lo que tengas, donde estés.",
+        "autor": "Theodore Roosevelt"
+      },
+      {
+        "id": 25,
+        "texto": "El mejor modo de predecir el futuro es inventarlo.",
+        "autor": "Alan Kay"
+      },
+      {
+        "id": 26,
+        "texto": "El secreto de salir adelante es comenzar.",
+        "autor": "Mark Twain"
+      },
+      {
+        "id": 27,
+        "texto": "El conocimiento es poder.",
+        "autor": "Francis Bacon"
+      },
+      {
+        "id": 28,
+        "texto": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+        "autor": "George Eliot"
+      },
+      {
+        "id": 29,
+        "texto": "La imaginación gobierna el mundo.",
+        "autor": "Napoleón Bonaparte"
+      },
+      {
+        "id": 30,
+        "texto": "Lo que hacemos en la vida tiene su eco en la eternidad.",
+        "autor": "Marco Aurelio"
+      },
+      {
+        "id": 31,
+        "texto": "Donde reina el amor, sobran las leyes.",
+        "autor": "Platón"
+      },
+      {
+        "id": 32,
+        "texto": "El hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida.",
+        "autor": "Charles Darwin"
+      },
+      {
+        "id": 33,
+        "texto": "El mundo es un libro, y aquellos que no viajan leen solo una página.",
+        "autor": "San Agustín"
+      },
+      {
+        "id": 34,
+        "texto": "La pobreza no viene por la disminución de las riquezas, sino por la multiplicación de los deseos.",
+        "autor": "Platón"
+      },
+      {
+        "id": 35,
+        "texto": "Nada en la vida debe ser temido, solo comprendido.",
+        "autor": "Marie Curie"
+      },
+      {
+        "id": 36,
+        "texto": "El trabajo nos libra de tres grandes males: el aburrimiento, el vicio y la necesidad.",
+        "autor": "Voltaire"
+      },
+      {
+        "id": 37,
+        "texto": "La música puede cambiar el mundo porque puede cambiar a las personas.",
+        "autor": "Bono"
+      },
+      {
+        "id": 38,
+        "texto": "Un amigo es aquel que llega cuando todos se han ido.",
+        "autor": "Walter Winchell"
+      },
+      {
+        "id": 39,
+        "texto": "La risa es el sol que ahuyenta el invierno del rostro humano.",
+        "autor": "Victor Hugo"
+      },
+      {
+        "id": 40,
+        "texto": "No cuentes los días, haz que los días cuenten.",
+        "autor": "Muhammad Ali"
+      },
+      {
+        "id": 41,
+        "texto": "El amor es la poesía de los sentidos.",
+        "autor": "Honoré de Balzac"
+      },
+      {
+        "id": 42,
+        "texto": "La mejor venganza es un éxito rotundo.",
+        "autor": "Frank Sinatra"
+      },
+      {
+        "id": 43,
+        "texto": "El hombre está condenado a ser libre.",
+        "autor": "Jean-Paul Sartre"
+      },
+      {
+        "id": 44,
+        "texto": "La paciencia es la fortaleza del débil y la impaciencia la debilidad del fuerte.",
+        "autor": "Immanuel Kant"
+      },
+      {
+        "id": 45,
+        "texto": "Quien tiene paz en su conciencia, lo tiene todo.",
+        "autor": "San Juan Bosco"
+      },
+      {
+        "id": 46,
+        "texto": "El hombre sabio no acumula tesoros. Cuanto más da a los demás, más tiene para sí.",
+        "autor": "Lao Tse"
+      },
+      {
+        "id": 47,
+        "texto": "Cada mañana nacemos de nuevo. Lo que hacemos hoy es lo que más importa.",
+        "autor": "Buda"
+      },
+      {
+        "id": 48,
+        "texto": "El amor consuela como el resplandor del sol después de la lluvia.",
+        "autor": "William Shakespeare"
+      },
+      {
+        "id": 49,
+        "texto": "El humor es la manifestación más elevada de la inteligencia.",
+        "autor": "Sigmund Freud"
+      },
+      {
+        "id": 50,
+        "texto": "El único límite a nuestros logros de mañana está en nuestras dudas de hoy.",
+        "autor": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 51,
+        "texto": "Los sueños son las semillas de la realidad.",
+        "autor": "James Allen"
+      },
+      {
+        "id": 52,
+        "texto": "El valor de un hombre se mide por la medida de lo que busca.",
+        "autor": "Marco Aurelio"
+      },
+      {
         "id": 53,
-        "texto": "La poesía es el eco de la melodía del universo en el corazón de los humanos.",
-        "autor": "Rabindranath Tagore"
+        "texto": "Nunca se es demasiado viejo para fijarse otra meta o soñar un nuevo sueño.",
+        "autor": "C. S. Lewis"
       },
       {
         "id": 54,
-        "texto": "El amor es tan importante como la comida. Pero no alimenta.",
-        "autor": "Gabriel García Márquez"
+        "texto": "No puedes cruzar el mar simplemente mirando el agua.",
+        "autor": "Rabindranath Tagore"
       },
       {
         "id": 55,
-        "texto": "La vida es un sueño, y los sueños, sueños son.",
-        "autor": "Pedro Calderón de la Barca"
+        "texto": "El fracaso es la oportunidad de comenzar de nuevo con más inteligencia.",
+        "autor": "Henry Ford"
       },
       {
         "id": 56,
-        "texto": "Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar el presente, y optimismo desafiante para encarar el futuro.",
-        "autor": "Isabel Allende"
+        "texto": "No vemos las cosas como son, las vemos como somos.",
+        "autor": "Anaïs Nin"
       },
       {
         "id": 57,
-        "texto": "Aprender a sonreír es aprender a ser libres.",
-        "autor": "William James"
+        "texto": "El secreto de la felicidad no está en hacer siempre lo que se quiere, sino en querer siempre lo que se hace.",
+        "autor": "León Tolstói"
       },
       {
         "id": 58,
-        "texto": "Una es más auténtica, mientras más se parece a lo que soñó de sí misma.",
-        "autor": "Octavio Paz"
+        "texto": "El tiempo que disfrutas perdiendo no es tiempo perdido.",
+        "autor": "John Lennon"
       },
       {
         "id": 59,
-        "texto": "Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer.",
-        "autor": "Pablo Picasso"
+        "texto": "Sé fiel en las cosas pequeñas porque en ellas reside tu fuerza.",
+        "autor": "Madre Teresa"
       },
       {
         "id": 60,
-        "texto": "El que quiere interesar a los demás tiene que provocarlos.",
-        "autor": "Salvador Dalí"
+        "texto": "El hombre que mueve montañas comienza apartando piedras pequeñas.",
+        "autor": "Confucio"
       },
       {
         "id": 61,
-        "texto": "La pluma es la lengua del alma.",
-        "autor": "Miguel de Cervantes"
+        "texto": "El talento gana juegos, pero el trabajo en equipo y la inteligencia ganan campeonatos.",
+        "autor": "Michael Jordan"
+      },
+      {
+        "id": 62,
+        "texto": "El mayor logro es ser uno mismo en un mundo que constantemente intenta que seas otra cosa.",
+        "autor": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 63,
+        "texto": "El verdadero sabio es el que siempre desea aprender.",
+        "autor": "Proverbio chino"
+      },
+      {
+        "id": 64,
+        "texto": "La educación es el pasaporte hacia el futuro.",
+        "autor": "Malcolm X"
+      },
+      {
+        "id": 65,
+        "texto": "Los límites de mi lenguaje son los límites de mi mundo.",
+        "autor": "Ludwig Wittgenstein"
+      },
+      {
+        "id": 66,
+        "texto": "El hombre feliz es aquel que siendo rey o campesino, encuentra paz en su hogar.",
+        "autor": "Johann Goethe"
+      },
+      {
+        "id": 67,
+        "texto": "La simplicidad es la máxima sofisticación.",
+        "autor": "Leonardo da Vinci"
+      },
+      {
+        "id": 68,
+        "texto": "La mayor riqueza es contentarse con poco.",
+        "autor": "Platón"
+      },
+      {
+        "id": 69,
+        "texto": "La gente olvidará lo que dijiste, olvidará lo que hiciste, pero nunca olvidará cómo la hiciste sentir.",
+        "autor": "Maya Angelou"
+      },
+      {
+        "id": 70,
+        "texto": "El secreto de la existencia no consiste solamente en vivir, sino en saber para qué se vive.",
+        "autor": "Fiódor Dostoievski"
+      },
+      {
+        "id": 71,
+        "texto": "Las cicatrices son el recordatorio de que fuiste más fuerte que aquello que intentó destruirte.",
+        "autor": "Proverbio árabe"
+      },
+      {
+        "id": 72,
+        "texto": "No heredamos la tierra de nuestros antepasados, la tomamos prestada de nuestros hijos.",
+        "autor": "Proverbio indígena"
+      },
+      {
+        "id": 73,
+        "texto": "El éxito no se mide por el dinero, sino por la diferencia que haces en la vida de las personas.",
+        "autor": "Michelle Obama"
+      },
+      {
+        "id": 74,
+        "texto": "La vida es corta, sonríe mientras aún tengas dientes.",
+        "autor": "Anónimo"
+      },
+      {
+        "id": 75,
+        "texto": "El arte lava del alma el polvo de la vida cotidiana.",
+        "autor": "Pablo Picasso"
+      },
+      {
+        "id": 76,
+        "texto": "El perdón es la fragancia que derrama la violeta en el talón que la aplastó.",
+        "autor": "Mark Twain"
+      },
+      {
+        "id": 77,
+        "texto": "No encuentres la falta, encuentra el remedio.",
+        "autor": "Henry Ford"
+      },
+      {
+        "id": 78,
+        "texto": "La vida es lo que pasa cuando estás ocupado haciendo otros planes.",
+        "autor": "John Lennon"
+      },
+      {
+        "id": 79,
+        "texto": "El que no es un buen sirviente no será un buen maestro.",
+        "autor": "Platón"
+      },
+      {
+        "id": 80,
+        "texto": "La bondad en palabras crea confianza. La bondad en pensamientos crea profundidad. La bondad en actos crea amor.",
+        "autor": "Lao Tse"
+      },
+      {
+        "id": 81,
+        "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+        "autor": "Robert Collier"
+      },
+      {
+        "id": 82,
+        "texto": "La lectura es para la mente lo que el ejercicio es para el cuerpo.",
+        "autor": "Joseph Addison"
+      },
+      {
+        "id": 83,
+        "texto": "El hombre encuentra a Dios detrás de cada puerta que la ciencia logra abrir.",
+        "autor": "Albert Einstein"
+      },
+      {
+        "id": 84,
+        "texto": "No se puede pisar dos veces el mismo río.",
+        "autor": "Heráclito"
+      },
+      {
+        "id": 85,
+        "texto": "El amor es la única fuerza capaz de transformar un enemigo en amigo.",
+        "autor": "Martin Luther King Jr."
+      },
+      {
+        "id": 86,
+        "texto": "El sabio puede cambiar de opinión. El necio, nunca.",
+        "autor": "Immanuel Kant"
+      },
+      {
+        "id": 87,
+        "texto": "Los débiles se vengan. Los fuertes perdonan. Los inteligentes ignoran.",
+        "autor": "Albert Einstein"
+      },
+      {
+        "id": 88,
+        "texto": "La muerte no es más que un cambio de estado, como el nacimiento.",
+        "autor": "Marco Tulio Cicerón"
+      },
+      {
+        "id": 89,
+        "texto": "El que teme sufrir ya sufre el temor.",
+        "autor": "Michel de Montaigne"
+      },
+      {
+        "id": 90,
+        "texto": "Quien no ha caído nunca no tiene una idea justa del esfuerzo que hay que hacer para mantenerse en pie.",
+        "autor": "Multatuli"
+      },
+      {
+        "id": 91,
+        "texto": "La historia es un incesante volver a empezar.",
+        "autor": "Tucídides"
+      },
+      {
+        "id": 92,
+        "texto": "Los que no recuerdan el pasado están condenados a repetirlo.",
+        "autor": "George Santayana"
+      },
+      {
+        "id": 93,
+        "texto": "La envidia es una declaración de inferioridad.",
+        "autor": "Napoleón Bonaparte"
+      },
+      {
+        "id": 94,
+        "texto": "El buen humor es la única cualidad divina del hombre.",
+        "autor": "Arthur Schopenhauer"
+      },
+      {
+        "id": 95,
+        "texto": "La honestidad es el primer capítulo del libro de la sabiduría.",
+        "autor": "Thomas Jefferson"
+      },
+      {
+        "id": 96,
+        "texto": "El mejor espejo es un viejo amigo.",
+        "autor": "George Herbert"
+      },
+      {
+        "id": 97,
+        "texto": "El hombre muere tantas veces como pierde a sus seres queridos.",
+        "autor": "Publio Siro"
+      },
+      {
+        "id": 98,
+        "texto": "El conocimiento sin práctica es inútil, la práctica sin conocimiento es peligrosa.",
+        "autor": "Confucio"
+      },
+      {
+        "id": 99,
+        "texto": "La virtud es el punto medio entre dos vicios opuestos.",
+        "autor": "Aristóteles"
+      },
+      {
+        "id": 100,
+        "texto": "La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía.",
+        "autor": "Mahatma Gandhi"
       }
     ]
   }
