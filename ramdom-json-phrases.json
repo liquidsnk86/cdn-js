@@ -500,6 +500,256 @@
         "id": 100,
         "texto": "La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía.",
         "autor": "Mahatma Gandhi"
+      },
+      {
+        "id": 101,
+        "texto": "El cambio es la ley de la vida. Quien mira solo al pasado está seguro de perder el futuro.",
+        "autor": "John F. Kennedy"
+      },
+      {
+        "id": 102,
+        "texto": "La verdadera libertad es no tener nada que perder.",
+        "autor": "Erich Fromm"
+      },
+      {
+        "id": 103,
+        "texto": "El mejor tiempo para plantar un árbol fue hace 20 años. El segundo mejor tiempo es ahora.",
+        "autor": "Proverbio chino"
+      },
+      {
+        "id": 104,
+        "texto": "No existe el fracaso definitivo, solo existe la falta de intentos.",
+        "autor": "Bob Ross"
+      },
+      {
+        "id": 105,
+        "texto": "La resiliencia es tu capacidad de regresar.",
+        "autor": "Sheryl Sandberg"
+      },
+      {
+        "id": 106,
+        "texto": "El éxito es el resultado de la preparación, la oportunidad y la acción.",
+        "autor": "Colin Powell"
+      },
+      {
+        "id": 107,
+        "texto": "Aquellos que aman profundamente nunca envejecen.",
+        "autor": "Alfred Lord Tennyson"
+      },
+      {
+        "id": 108,
+        "texto": "La verdadera medida de un hombre no es cómo se comporta en momentos de comodidad y conveniencia.",
+        "autor": "Martin Luther King Jr."
+      },
+      {
+        "id": 109,
+        "texto": "El futuro no se predice, se crea.",
+        "autor": "Peter Drucker"
+      },
+      {
+        "id": 110,
+        "texto": "No importa lo lentamente que avances, siempre y cuando no te detengas.",
+        "autor": "Confucio"
+      },
+      {
+        "id": 111,
+        "texto": "La vida comienza donde termina el miedo.",
+        "autor": "Osho"
+      },
+      {
+        "id": 112,
+        "texto": "El legado que dejas es la vida que viviste.",
+        "autor": "Jackie Robinson"
+      },
+      {
+        "id": 113,
+        "texto": "La verdadera riqueza es la salud.",
+        "autor": "Dicho popular"
+      },
+      {
+        "id": 114,
+        "texto": "La felicidad se produce cuando lo que piensas, lo que dices y lo que haces están en armonía total.",
+        "autor": "Mahatma Gandhi"
+      },
+      {
+        "id": 115,
+        "texto": "No busques el éxito, busca la excelencia.",
+        "autor": "John Wooden"
+      },
+      {
+        "id": 116,
+        "texto": "La mente es todo. En lo que piensas es en lo que te conviertes.",
+        "autor": "Buda"
+      },
+      {
+        "id": 117,
+        "texto": "El verdadero coraje es actuar con miedo, no sin él.",
+        "autor": "Nelson Mandela"
+      },
+      {
+        "id": 118,
+        "texto": "La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento.",
+        "autor": "Maya Angelou"
+      },
+      {
+        "id": 119,
+        "texto": "Tú eres el único responsable de tu propia felicidad.",
+        "autor": "Steve Maraboli"
+      },
+      {
+        "id": 120,
+        "texto": "El tiempo es el bien más valioso que posees.",
+        "autor": "Jim Rohn"
+      },
+      {
+        "id": 121,
+        "texto": "La vida es un viaje, no un destino.",
+        "autor": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 122,
+        "texto": "No basta estar en el lugar correcto en el momento correcto. Debes ser la persona correcta.",
+        "autor": "Stephen Covey"
+      },
+      {
+        "id": 123,
+        "texto": "El amor no es algo que encuentres. Es algo que creces.",
+        "autor": "Mario Speed Wagon"
+      },
+      {
+        "id": 124,
+        "texto": "Puedes resistir el cambio, pero no puedes detenerlo.",
+        "autor": "Andy Warhol"
+      },
+      {
+        "id": 125,
+        "texto": "La vida es la que pasa mientras estás haciendo otros planes.",
+        "autor": "John Lennon"
+      },
+      {
+        "id": 126,
+        "texto": "La única forma de hacer un trabajo excelente es amar lo que haces.",
+        "autor": "Steve Jobs"
+      },
+      {
+        "id": 127,
+        "texto": "Las mentes grandes discuten ideas. Las mentes promedio discuten eventos. Las mentes pequeñas discuten gente.",
+        "autor": "Eleanor Roosevelt"
+      },
+      {
+        "id": 128,
+        "texto": "No puedes controlar el viento, pero puedes ajustar tus velas.",
+        "autor": "Dolly Parton"
+      },
+      {
+        "id": 129,
+        "texto": "La perfección no existe. Lo que existe es la mejora constante.",
+        "autor": "Hector Ruiz"
+      },
+      {
+        "id": 130,
+        "texto": "Tu potencial es ilimitado. Las únicas limitaciones son las que aceptas en tu mente.",
+        "autor": "Brian Tracy"
+      },
+      {
+        "id": 131,
+        "texto": "La mejor inversión es en ti mismo.",
+        "autor": "Warren Buffett"
+      },
+      {
+        "id": 132,
+        "texto": "No vivas para trabajar, trabaja para vivir.",
+        "autor": "Desconocido"
+      },
+      {
+        "id": 133,
+        "texto": "El éxito es ir de fracaso a fracaso sin perder el entusiasmo.",
+        "autor": "Winston Churchill"
+      },
+      {
+        "id": 134,
+        "texto": "La calidad no es un acto, es un hábito.",
+        "autor": "Aristóteles"
+      },
+      {
+        "id": 135,
+        "texto": "Toda gran realización comienza con un sueño.",
+        "autor": "Og Mandino"
+      },
+      {
+        "id": 136,
+        "texto": "La vida es demasiado corta para trabajar en algo que no te ama.",
+        "autor": "Steve Jobs"
+      },
+      {
+        "id": 137,
+        "texto": "Eres más fuerte de lo que crees.",
+        "autor": "Unknown"
+      },
+      {
+        "id": 138,
+        "texto": "Nada es imposible si persistes lo suficiente.",
+        "autor": "Zig Ziglar"
+      },
+      {
+        "id": 139,
+        "texto": "La vida es un regalo. Disfrútala mientras puedas.",
+        "autor": "Unknown"
+      },
+      {
+        "id": 140,
+        "texto": "Hoy es el primer día del resto de tu vida.",
+        "autor": "Charles Dederich"
+      },
+      {
+        "id": 141,
+        "texto": "Tu único límite eres tú mismo.",
+        "autor": "Unknown"
+      },
+      {
+        "id": 142,
+        "texto": "La vida recompensa a quienes se atreven.",
+        "autor": "Unknown"
+      },
+      {
+        "id": 143,
+        "texto": "Nunca es tarde para empezar de nuevo.",
+        "autor": "C.S. Lewis"
+      },
+      {
+        "id": 144,
+        "texto": "La verdadera éxito es paz mental.",
+        "autor": "Aristotle"
+      },
+      {
+        "id": 145,
+        "texto": "Si no te desafías, desafiarás a otros.",
+        "autor": "Anónimo"
+      },
+      {
+        "id": 146,
+        "texto": "La vida es lo que sucede cuando tienes otros planes.",
+        "autor": "John Lennon"
+      },
+      {
+        "id": 147,
+        "texto": "Lo que la mente puede concebir y creer, la mente puede lograrlo.",
+        "autor": "Napoleon Hill"
+      },
+      {
+        "id": 148,
+        "texto": "La gratitud es la clave para la felicidad.",
+        "autor": "Unknown"
+      },
+      {
+        "id": 149,
+        "texto": "Sigue adelante sin importar lo oscuro que sea.",
+        "autor": "Ralph Waldo Emerson"
+      },
+      {
+        "id": 150,
+        "texto": "Tu actitud determina tu altitud.",
+        "autor": "Zig Ziglar"
       }
     ]
   }
