@@ -1000,7 +1000,107 @@
         "id": 200,
         "texto": "La vida es el arte de encontrar sentido.",
         "autor": "Antonio Gala"
-      }
+      },
+      {
+    "id": 201,
+    "texto": "La justicia es la constante y perpetua voluntad de dar a cada uno su derecho.",
+    "autor": "Ulpiano"
+  },
+  {
+    "id": 202,
+    "texto": "La ley es razón libre de pasión.",
+    "autor": "Aristóteles"
+  },
+  {
+    "id": 203,
+    "texto": "Donde no hay ley, no hay libertad.",
+    "autor": "John Locke"
+  },
+  {
+    "id": 204,
+    "texto": "La injusticia en cualquier parte es una amenaza a la justicia en todas partes.",
+    "autor": "Martin Luther King Jr."
+  },
+  {
+    "id": 205,
+    "texto": "La justicia sin fuerza es impotente; la fuerza sin justicia es tiránica.",
+    "autor": "Blaise Pascal"
+  },
+  {
+    "id": 206,
+    "texto": "El fin del derecho es la paz; el medio para ello es la lucha.",
+    "autor": "Rudolf von Ihering"
+  },
+  {
+    "id": 207,
+    "texto": "La libertad es el derecho de hacer todo lo que las leyes permiten.",
+    "autor": "Montesquieu"
+  },
+  {
+    "id": 208,
+    "texto": "El derecho es el arte de lo bueno y de lo equitativo.",
+    "autor": "Celso"
+  },
+  {
+    "id": 209,
+    "texto": "La justicia es la primera virtud de las instituciones sociales.",
+    "autor": "John Rawls"
+  },
+  {
+    "id": 210,
+    "texto": "Una injusticia hecha al individuo es una amenaza hecha a toda la sociedad.",
+    "autor": "Montesquieu"
+  },
+  {
+    "id": 211,
+    "texto": "La verdad os hará libres.",
+    "autor": "Jesús de Nazaret"
+  },
+  {
+    "id": 212,
+    "texto": "Es mejor sufrir una injusticia que cometerla.",
+    "autor": "Sócrates"
+  },
+  {
+    "id": 213,
+    "texto": "La ley debe ser como la muerte, que no exceptúa a nadie.",
+    "autor": "Montesquieu"
+  },
+  {
+    "id": 214,
+    "texto": "La razón es la fuente de toda ley.",
+    "autor": "Tomás de Aquino"
+  },
+  {
+    "id": 215,
+    "texto": "El derecho vive en la conciencia del pueblo.",
+    "autor": "Friedrich Carl von Savigny"
+  },
+  {
+    "id": 216,
+    "texto": "La paz es el fin que persigue el derecho.",
+    "autor": "Hans Kelsen"
+  },
+  {
+    "id": 217,
+    "texto": "La ley es expresión de la voluntad general.",
+    "autor": "Jean-Jacques Rousseau"
+  },
+  {
+    "id": 218,
+    "texto": "La injusticia es la mayor de todas las desgracias.",
+    "autor": "Platón"
+  },
+  {
+    "id": 219,
+    "texto": "La justicia es una virtud que consiste en dar a cada uno lo suyo.",
+    "autor": "Tomás de Aquino"
+  },
+  {
+    "id": 220,
+    "texto": "El derecho no debe ser un privilegio de unos pocos, sino una garantía para todos.",
+    "autor": "Norberto Bobbio"
+  }
     ]
   }
 }
